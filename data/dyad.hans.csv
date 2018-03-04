@@ -1,0 +1,1760 @@
+"City1";"Country1";"City2";"Country2";"Year";"k50";"k100";"k150";"k200";"H1";"H2";"Hboth"
+"Keminmaa";"Finland";"Apatity";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kiukainen";"Finland";"Boksitogorsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Harjavalta";"Finland";"Boksitogorsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Nakkila";"Finland";"Boksitogorsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Raahe";"Finland";"Cherepovets";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kemijarvi";"Finland";"Kandalaksha";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Vantaa";"Finland";"Kineshma";"Russia";"1969";"0";"0";"0";"0";0;0;0
+"Raisio";"Finland";"Kingisepp";"Russia";"1975";"1";"1";"1";"1";0;0;0
+"Iisalmi";"Finland";"Kirishi";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tornio";"Finland";"Kirovsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Lappeenranta";"Finland";"Klin";"Russia";"1966";"0";"0";"0";"0";0;0;0
+"Kuhmo";"Finland";"Kostomuksha";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Hyvinkaa";"Finland";"Kostroma";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Salla";"Finland";"Kovdor";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kotka";"Finland";"Kronstadt";"Russia";"1993";"1";"1";"1";"1";0;0;0
+"Mikkeli";"Finland";"Luga";"Russia";"0";"0";"0";"1";"1";0;0;0
+"Lohja";"Finland";"Mozhaysk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Uusikaupunki";"Finland";"Novgorod";"Russia";"1965";"0";"0";"0";"1";0;0;0
+"Hyrynsalmi";"Finland";"Olonets";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Mikkeli";"Finland";"Olonets";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Puolanka";"Finland";"Olonets";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ristijarvi";"Finland";"Olonets";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Nokia";"Finland";"Oryol";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Joensuu";"Finland";"Petrozavodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Varkaus";"Finland";"Petrozavodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Orivesi";"Finland";"Pushkino";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Helsinki";"Finland";"St. Petersburg";"Russia";"1993";"1";"1";"1";"1";0;0;0
+"Kotka";"Finland";"St. Petersburg";"Russia";"1997";"1";"1";"1";"1";0;0;0
+"Mikkeli";"Finland";"St. Petersburg";"Russia";"1996";"0";"0";"1";"1";0;0;0
+"Tampere";"Finland";"St. Petersburg";"Russia";"1993";"0";"0";"1";"1";0;0;0
+"Forssa";"Finland";"Serpukhov";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Lohja";"Finland";"Shchyolkovo";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Valkeakoski";"Finland";"Sokol";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Joensuu";"Finland";"Sortavala";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Mantta-Vilppula";"Finland";"Stary Oskol";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Joensuu";"Finland";"Suoyarvi";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Imatra";"Finland";"Svetogorsk";"Russia";"0";"1";"1";"1";"1";0;0;0
+"Imatra";"Finland";"Tikhvin";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Savonlinna";"Finland";"Torzhok";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Hameenlinna";"Finland";"Tver";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Seinajoki";"Finland";"Velikiye Luki";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Jarvenpaa";"Finland";"Volkhov";"Russia";"1961";"0";"0";"0";"0";0;0;0
+"Lappeenranta";"Finland";"Vyborg";"Russia";"1987";"1";"1";"1";"1";0;0;0
+"Haapavesi";"Finland";"Alvsbyn Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Maaninka";"Finland";"Angelholm Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Oulu";"Finland";"Boden Municipality";"Sweden";"1948";"1";"1";"1";"1";0;0;0
+"Jakobstad";"Finland";"Eslov Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Pieksamaki";"Finland";"Falkenberg Municipality";"Sweden";"0";"0";"0";"0";"1";0;0;0
+"Kittila";"Finland";"Gallivare Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Rauma";"Finland";"Gavle Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Turku";"Finland";"Gothenburg Municipality";"Sweden";"1946";"1";"1";"1";"1";0;0;0
+"Mariehamn";"Finland";"Gotland Municipality";"Sweden";"1940";"1";"1";"1";"1";0;0;0
+"Valkeakoski";"Finland";"Gotland Municipality";"Sweden";"0";"0";"0";"1";"1";0;0;0
+"Pargas";"Finland";"Haninge Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Lieto";"Finland";"Hoganas Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Vora";"Finland";"Hogsby Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Soini";"Finland";"Hoor Municipality";"Sweden";"0";"0";"0";"1";"1";0;0;0
+"Vantaa";"Finland";"Huddinge Municipality";"Sweden";"1951";"1";"1";"1";"1";0;0;0
+"Kuopio";"Finland";"Jonkoping Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Savonlinna";"Finland";"Kalmar Municipality";"Sweden";"1948";"0";"0";"1";"1";0;1;1
+"Loviisa";"Finland";"Karlskrona Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Nokia";"Finland";"Karlstad Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Viiala";"Finland";"Klippan Municipality";"Sweden";"0";"0";"0";"1";"1";0;0;0
+"Jomala";"Finland";"Knivsta Municipality";"Sweden";"2008";"1";"1";"1";"1";0;0;0
+"Espoo";"Finland";"Kristianstad Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Rautavaara";"Finland";"Kristinehamn Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Seinajoki";"Finland";"Kristinehamn Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Lohja";"Finland";"Lidingo Municipality";"Sweden";"1942";"1";"1";"1";"1";0;0;0
+"Joensuu";"Finland";"Linkoping Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Kemi";"Finland";"Lulea Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Porvoo";"Finland";"Lund Municipality";"Sweden";"1945";"1";"1";"1";"1";0;0;0
+"Vaasa";"Finland";"Malmo Municipality";"Sweden";"1940";"1";"1";"1";"1";0;0;0
+"Palkane";"Finland";"Markaryd Municipality";"Sweden";"0";"0";"0";"1";"1";0;0;0
+"Pyhtaa Municipality";"Finland";"Nacka Municipality";"Sweden";"1983";"1";"1";"1";"1";0;0;0
+"Koylio";"Finland";"Nora Municipality";"Sweden";"1944";"0";"0";"0";"1";0;0;0
+"Tampere";"Finland";"Norrkoping Municipality";"Sweden";"1956";"0";"0";"1";"1";0;0;0
+"Lappeenranta";"Finland";"Orebro Municipality";"Sweden";"1940";"0";"0";"1";"1";0;0;0
+"Aanekoski";"Finland";"Ornskoldsvik Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Karkkila";"Finland";"Oxelosund Municipality";"Sweden";"1998";"0";"1";"1";"1";0;0;0
+"Mantta-Vilppula";"Finland";"Ronneby Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Raisio";"Finland";"Sigtuna Municipality";"Sweden";"1975";"1";"1";"1";"1";0;0;0
+"Raahe";"Finland";"Skelleftea Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Tuusula";"Finland";"Sollentuna Municipality";"Sweden";"1955";"1";"1";"1";"1";0;0;0
+"Pirkkala";"Finland";"Solna Municipality";"Sweden";"0";"0";"0";"1";"1";0;0;0
+"Viitasaari";"Finland";"Staffanstorp Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Huittinen";"Finland";"Stenungsund Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Joutseno";"Finland";"Sater Municipality";"Sweden";"0";"0";"0";"0";"1";0;0;0
+"Forssa";"Finland";"Sodertalje Municipality";"Sweden";"1946";"0";"1";"1";"1";0;0;0
+"Jarvenpaa";"Finland";"Taby Municipality";"Sweden";"1956";"1";"1";"1";"1";0;0;0
+"Haukipudas";"Finland";"Trelleborg Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Lempaala";"Finland";"Ulricehamn Municipality";"Sweden";"1973";"0";"0";"1";"1";0;0;0
+"Vaasa";"Finland";"Umea Municipality";"Sweden";"1953";"1";"1";"1";"1";0;0;0
+"Hameenlinna";"Finland";"Uppsala Municipality";"Sweden";"1947";"0";"0";"1";"1";0;0;0
+"Uusikaupunki";"Finland";"Varberg Municipality";"Sweden";"1940";"1";"1";"1";"1";0;0;0
+"Kangasala";"Finland";"Vanersborg Municipality";"Sweden";"1976";"0";"0";"0";"1";0;0;0
+"Narpes";"Finland";"Vastervik Municipality";"Sweden";"1940";"1";"1";"1";"1";0;0;0
+"Lohja";"Finland";"Vaxjo Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Savonlinna";"Finland";"Arendal";"Norway";"1948";"0";"0";"1";"1";0;0;0
+"Paimio";"Finland";"As";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Jakobstad";"Finland";"Asker";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Vantaa";"Finland";"Askim";"Norway";"1951";"1";"1";"1";"1";0;0;0
+"Sipoo";"Finland";"Aurskog-Holand";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Hameenlinna";"Finland";"Baerum";"Norway";"1950";"0";"0";"1";"1";0;0;0
+"Narpes";"Finland";"Bamble";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Puumala";"Finland";"Bo, Telemark";"Norway";"1989";"0";"1";"1";"1";0;0;0
+"Lappeenranta";"Finland";"Drammen";"Norway";"1948";"0";"1";"1";"1";0;0;0
+"Suolahti";"Finland";"Eidsvoll";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kotka";"Finland";"Fredrikstad";"Norway";"1950";"1";"1";"1";"1";0;0;0
+"Virrat";"Finland";"Gol";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Asikkala";"Finland";"Grimstad";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Sastamala";"Finland";"Halden";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Porvoo";"Finland";"Hamar";"Norway";"1953";"0";"0";"1";"1";0;0;0
+"Tornio";"Finland";"Hammerfest";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vaasa";"Finland";"Harstad";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Raseborg";"Finland";"Haugesund";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Hameenlinna";"Finland";"Hemsedal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Mantyharju";"Finland";"Hol";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kustavi";"Finland";"Hole";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kangasala";"Finland";"Holmestrand";"Norway";"1976";"0";"0";"0";"1";0;0;0
+"Loviisa";"Finland";"Horten";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Larsmo";"Finland";"Klaebu";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Espoo";"Finland";"Kongsberg";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Ylojarvi";"Finland";"Kongsvinger";"Norway";"1980";"0";"0";"1";"1";0;0;0
+"Kerava";"Finland";"Kristiansand";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Kokkola";"Finland";"Kristiansund";"Norway";"1948";"0";"0";"0";"0";0;0;0
+"Jyvaskyla";"Finland";"Larvik";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Malax";"Finland";"Leksvik";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Oulainen";"Finland";"Lillehammer";"Norway";"1950";"0";"0";"1";"1";0;0;0
+"Kimito";"Finland";"Lillesand";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Jarvenpaa";"Finland";"Lorenskog";"Norway";"1956";"1";"1";"1";"1";0;0;0
+"Loppi";"Finland";"Lunner";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Vora";"Finland";"Malvik";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kurikka";"Finland";"Melhus";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Tuusniemi";"Finland";"Midtre Gauldal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Laukaa Municipality";"Finland";"Modum";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Mikkeli";"Finland";"Molde";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vimpeli";"Finland";"Mosvik";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kaskinen";"Finland";"Namsos";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kaarina";"Finland";"Nedre Eiker";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Rantasalmi";"Finland";"Nordre Land";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Juupajoki";"Finland";"Nore og Uvdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Idensalmi";"Finland";"Notodden";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kouvola";"Finland";"Oppdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Tuusula";"Finland";"Oppegard";"Norway";"1955";"1";"1";"1";"1";0;0;0
+"Raseborg";"Finland";"Orkdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Helsinki";"Finland";"Oslo";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Pyhajarvi";"Finland";"Overhalla";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Lempaala";"Finland";"Ovre Eiker";"Norway";"1973";"0";"0";"1";"1";0;0;0
+"Muhos";"Finland";"Oyer";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Pieksamaki";"Finland";"Porsgrunn";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Brahestad";"Finland";"Rana";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Sastamala";"Finland";"Rennebu";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Lohja";"Finland";"Ringerike";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Harjavalta";"Finland";"Rissa";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Jokioinen";"Finland";"Rollag";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Pernio";"Finland";"Sandnes";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Forssa";"Finland";"Sarpsborg";"Norway";"1951";"0";"1";"1";"1";0;0;0
+"Aanekoski";"Finland";"Sigdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Keuruu";"Finland";"Skaun";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Raseborg";"Finland";"Skedsmo";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Pirkkala";"Finland";"Ski Municipality";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Loimaa";"Finland";"Skien";"Norway";"1947";"0";"1";"1";"1";0;0;0
+"Korsnas";"Finland";"Snasa";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Inari";"Finland";"Sor-Varanger";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Nykarleby";"Finland";"Steinkjer";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Karstula";"Finland";"Stjordal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Joensuu";"Finland";"Tonsberg";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Laihia";"Finland";"Trysil";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kemijarvi";"Finland";"Vardo";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Jamsankoski";"Finland";"Verdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Jyvaskyla";"Finland";"Esbjerg Municipality";"Denmark";"1947";"0";"0";"0";"0";0;0;0
+"Hameenlinna";"Finland";"Frederiksberg Municipality";"Denmark";"1948";"0";"0";"1";"1";0;0;0
+"Rovaniemi";"Finland";"Frederikshavn";"Denmark";"0";"0";"0";"1";"1";0;0;0
+"Pirkkala";"Finland";"Gladsaxe Municipality";"Denmark";"1980";"0";"0";"1";"1";0;0;0
+"Lappeenranta";"Finland";"Kolding Municipality";"Denmark";"1947";"1";"1";"1";"1";0;0;0
+"Mantta-Vilppula";"Finland";"Ronne";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Seinajoki";"Finland";"Skagen";"Denmark";"0";"0";"1";"1";"1";0;0;0
+"Siilinjarvi";"Finland";"Amberg";"WestGER";"1999";"0";"0";"0";"0";0;0;0
+"Hameenlinna";"Finland";"Celle";"WestGER";"1971";"0";"0";"0";"1";0;0;0
+"Savonlinna";"Finland";"Detmold";"WestGER";"2004";"0";"0";"0";"0";0;0;0
+"Porvoo";"Finland";"Dinkelsbuhl";"WestGER";"1961";"0";"0";"0";"0";0;0;0
+"Anjalankoski";"Finland";"Eilenburg";"WestGER";"2008";"0";"0";"0";"0";0;0;0
+"Vantaa";"Finland";"Frankfurt Oder";"EastGER";"1987";"0";"0";"1";"1";0;1;1
+"Kotka";"Finland";"Greifswald";"EastGER";"1959";"1";"1";"1";"1";0;1;1
+"Kouvola";"Finland";"Hagen";"WestGER";"2009";"0";"0";"0";"0";0;0;0
+"Oulu";"Finland";"Halle an der Saale";"WestGER";"1968";"0";"0";"0";"0";0;0;0
+"Sotkamo";"Finland";"Isny";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Vaasa";"Finland";"Kiel";"WestGER";"1967";"1";"1";"1";"1";0;1;1
+"Kuusankoski";"Finland";"Mulheim";"WestGER";"2008";"0";"0";"0";"0";0;0;0
+"Kouvola";"Finland";"Mulheim";"WestGER";"2009";"0";"0";"0";"0";0;0;0
+"Kokkola";"Finland";"Ratingen";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Imatra";"Finland";"Salzgitter";"WestGER";"1970";"0";"0";"0";"0";0;0;0
+"Seinajoki";"Finland";"Schweinfurt";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Lappeenranta";"Finland";"Schwabisch Hall";"WestGER";"1985";"0";"0";"0";"0";0;0;0
+"Ikaalinen";"Finland";"Stade";"WestGER";"0";"0";"0";"1";"1";0;1;1
+"Hameenlinna";"Finland";"Weimar";"WestGER";"1970";"0";"0";"0";"0";0;0;0
+"Kemi";"Finland";"Wismar";"EastGER";"1959";"1";"1";"1";"1";0;1;1
+"Kangasala";"Finland";"Zulpich";"WestGER";"1978";"0";"0";"0";"0";0;0;0
+"Kotka";"Finland";"Gdynia";"Poland";"1961";"1";"1";"1";"1";0;0;0
+"Porvoo";"Finland";"Kalisz";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Seinajoki";"Finland";"Koszalin";"Poland";"1988";"0";"1";"1";"1";0;1;1
+"Hameenlinna";"Finland";"Torun";"Poland";"1989";"0";"0";"1";"1";0;1;1
+"Salo";"Finland";"Kehra";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Huittinen";"Finland";"Keila";"Estonia";"0";"0";"1";"1";"1";0;0;0
+"Peraseinajoki";"Finland";"Kose Parish";"Estonia";"1991";"0";"0";"1";"1";0;0;0
+"Sipoo";"Finland";"Kuusalu";"Estonia";"1992";"1";"1";"1";"1";0;0;0
+"Kirkkonummi";"Finland";"Paldiski";"Estonia";"1996";"1";"1";"1";"1";0;0;0
+"Lappi";"Finland";"Saue";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Kotka";"Finland";"Tallinn";"Estonia";"1955";"1";"1";"1";"1";0;1;1
+"Porvoo";"Finland";"Viimsi Parish";"Estonia";"1994";"1";"1";"1";"1";0;0;0
+"Loimaa";"Finland";"Johvi";"Estonia";"1997";"0";"1";"1";"1";0;0;0
+"Outokumpu";"Finland";"Kohtla-Jarve";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Forssa";"Finland";"Narva";"Estonia";"0";"0";"1";"1";"1";0;0;0
+"Imatra";"Finland";"Narva-Joesuu";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Kotka";"Finland";"Sillamae";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Nokia";"Finland";"Sillamae";"Estonia";"0";"0";"0";"1";"1";0;0;0
+"Inga";"Finland";"Turi";"Estonia";"2004";"0";"1";"1";"1";0;0;0
+"Kiikala";"Finland";"Turi";"Estonia";"1992";"0";"1";"1";"1";0;0;0
+"Loimaa";"Finland";"Turi";"Estonia";"1996";"0";"1";"1";"1";0;0;0
+"Sakyla";"Finland";"Turi";"Estonia";"1992";"0";"1";"1";"1";0;0;0
+"Siuntio";"Finland";"Turi";"Estonia";"1994";"0";"1";"1";"1";0;0;0
+"Kaarina";"Finland";"Jogeva";"Estonia";"2005";"0";"1";"1";"1";0;0;0
+"Keuruu";"Finland";"Jogeva";"Estonia";"1991";"0";"0";"0";"0";0;0;0
+"Hanko";"Finland";"Haapsalu";"Estonia";"1992";"1";"1";"1";"1";0;0;0
+"Loviisa";"Finland";"Haapsalu";"Estonia";"2000";"1";"1";"1";"1";0;0;0
+"Pyhtaa Municipality";"Finland";"Haljala Parish";"Estonia";"1989";"1";"1";"1";"1";0;0;0
+"Seinajoki";"Finland";"Kunda";"Estonia";"1995";"0";"1";"1";"1";0;0;0
+"Kuopio";"Finland";"Rakvere";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Lappeenranta";"Finland";"Rakvere";"Estonia";"1994";"1";"1";"1";"1";0;0;0
+"Lapua";"Finland";"Rakvere";"Estonia";"1990";"0";"1";"1";"1";0;0;0
+"Akaa";"Finland";"Tapa";"Estonia";"0";"0";"0";"1";"1";0;0;0
+"Hausjarvi";"Finland";"Vaike-Maarja Parish";"Estonia";"1989";"0";"1";"1";"1";0;0;0
+"Sonkajarvi";"Finland";"Vaike-Maarja Parish";"Estonia";"1997";"0";"0";"0";"0";0;0;0
+"Vaasa";"Finland";"Parnu";"Estonia";"1956";"1";"1";"1";"1";0;1;1
+"Kauhava";"Finland";"Rapla";"Estonia";"1991";"0";"1";"1";"1";0;0;0
+"Nurmijarvi";"Finland";"Rapla";"Estonia";"1990";"0";"1";"1";"1";0;0;0
+"Ekenas";"Finland";"Kuressaare";"Estonia";"1988";"1";"1";"1";"1";0;0;0
+"Mariehamn";"Finland";"Kuressaare";"Estonia";"1991";"1";"1";"1";"1";0;0;0
+"Turku";"Finland";"Kuressaare";"Estonia";"1996";"1";"1";"1";"1";0;0;0
+"Vammala";"Finland";"Kuressaare";"Estonia";"1994";"0";"0";"1";"1";0;0;0
+"Muurame Municipality";"Finland";"Alatskivi Parish";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Kempele";"Finland";"Elva";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Toivakka";"Finland";"Kambja Parish";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Kinnula Municipality";"Finland";"Konguta Parish";"Estonia";"0";"0";"0";"1";"1";0;0;0
+"Jamsankoski";"Finland";"Luunja Parish";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Kannonkoski";"Finland";"Maksa Parish";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Liminka Municipality";"Finland";"Noo Parish";"Estonia";"0";"0";"0";"1";"1";0;0;0
+"Viitasaari";"Finland";"Noo Parish";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Kuhmoinen Municipality";"Finland";"Puhja Parish";"Estonia";"1991";"0";"0";"0";"1";0;0;0
+"Laukaa Municipality";"Finland";"Rongu Parish";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Hameenlinna";"Finland";"Tartu";"Estonia";"1991";"0";"0";"1";"1";0;1;1
+"Kyyjarvi";"Finland";"Vonnu Parish";"Estonia";"1990";"0";"0";"1";"1";0;0;0
+"Kivijarvi";"Finland";"Otepaa";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Laihia";"Finland";"Torva";"Estonia";"1990";"0";"0";"0";"1";0;0;0
+"Orimattila";"Finland";"Valga";"Estonia";"2001";"0";"0";"0";"1";0;0;0
+"Tornio";"Finland";"Valga";"Estonia";"1995";"0";"0";"0";"1";0;0;0
+"Uusikaupunki";"Finland";"Valga";"Estonia";"2001";"0";"0";"0";"1";0;0;0
+"Nummi-Pusula";"Finland";"Abja Parish";"Estonia";"2004";"0";"1";"1";"1";0;0;0
+"Porvoo";"Finland";"Viljandi";"Estonia";"1961";"0";"0";"1";"1";0;1;1
+"Perho";"Finland";"Antsla Parish";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Uusikaupunki";"Finland";"Antsla Parish";"Estonia";"1990";"0";"0";"0";"1";0;0;0
+"Iisalmi";"Finland";"Voru";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Laitila";"Finland";"Voru";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Kiruna Municipality";"Sweden";"Arkhangelsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Karlskrona Municipality";"Sweden";"Baltiysk";"Russia";"1995";"1";"1";"1";"1";0;0;0
+"Eskilstuna Municipality";"Sweden";"Gatchina";"Russia";"1998";"0";"1";"1";"1";0;0;0
+"Stromsund";"Sweden";"Irkutsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Karlskoga Municipality";"Sweden";"Ivangorod";"Russia";"0";"0";"0";"0";"1";0;0;0
+"Pitea Municipality";"Sweden";"Kandalaksha";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Gallivare Municipality";"Sweden";"Kirovsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Haparanda";"Sweden";"Kovdor";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Lulea Municipality";"Sweden";"Murmansk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Umea Municipality";"Sweden";"Petrozavodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Katrineholm";"Sweden";"Rzhev";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Gothenburg Municipality";"Sweden";"St. Petersburg";"Russia";"1962";"1";"1";"1";"1";0;0;0
+"Stockholm Municipality";"Sweden";"St. Petersburg";"Russia";"2002";"1";"1";"1";"1";1;0;1
+"Ronneby Municipality";"Sweden";"Slavsk";"Russia";"2000";"1";"1";"1";"1";0;0;0
+"Trosa Municipality";"Sweden";"Tikhvin";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Nykoping";"Sweden";"Vyborg";"Russia";"0";"1";"1";"1";"1";1;0;1
+"Falun";"Sweden";"Hamina";"Finland";"0";"0";"0";"0";"1";0;0;0
+"Soderhamn";"Sweden";"Jakobstad";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Jyvaskyla";"Finland";"Eskilstuna Municipality";"Sweden";"1947";"0";"0";"0";"0";0;0;0
+"Ostersund";"Sweden";"Kajaani";"Finland";"1943";"0";"0";"0";"0";0;0;0
+"Falkoping";"Sweden";"Kokemaki";"Finland";"1945";"0";"0";"0";"1";0;0;0
+"Vasteras Municipality";"Sweden";"Lahti";"Finland";"1940";"0";"0";"1";"1";0;0;0
+"Vadstena";"Sweden";"Naantali";"Finland";"0";"0";"0";"1";"1";0;0;0
+"Sundsvall";"Sweden";"Pori";"Finland";"1940";"1";"1";"1";"1";0;0;0
+"Karlskoga Municipality";"Sweden";"Riihimaki";"Finland";"1940";"0";"0";"0";"1";0;0;0
+"Kiruna Municipality";"Sweden";"Rovaniemi";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Katrineholm";"Sweden";"Salo";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Kramfors";"Sweden";"Salo";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Mariestad";"Sweden";"Salo";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Strangnas";"Sweden";"Salo";"Finland";"0";"0";"1";"1";"1";0;0;0
+"Trosa Municipality";"Sweden";"Salo";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Vingaker";"Sweden";"Salo";"Finland";"0";"0";"1";"1";"1";0;0;0
+"Krokom Municipality";"Sweden";"Haninge Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Vasteras Municipality";"Sweden";"Alesund";"Norway";"1947";"0";"0";"0";"0";0;0;0
+"Boden Municipality";"Sweden";"Alta";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kalmar Municipality";"Sweden";"Arendal";"Norway";"1948";"1";"1";"1";"1";1;0;1
+"Ljungby";"Sweden";"As";"Norway";"1949";"0";"0";"1";"1";0;0;0
+"Huddinge Municipality";"Sweden";"Askim";"Norway";"1951";"1";"1";"1";"1";0;0;0
+"Kumla";"Sweden";"Aurskog-Holand";"Norway";"1968";"0";"0";"1";"1";0;0;0
+"Uppsala Municipality";"Sweden";"Baerum";"Norway";"1947";"0";"1";"1";"1";0;0;0
+"Gothenburg Municipality";"Sweden";"Bergen";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Bengtsfors";"Sweden";"Bo, Telemark";"Norway";"1989";"0";"1";"1";"1";0;0;0
+"Jonkoping Municipality";"Sweden";"Bodo";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Gavleborgs lan";"Sweden";"Buskerud";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Orebro Municipality";"Sweden";"Drammen";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Nassjo";"Sweden";"Eidsberg";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Skara";"Sweden";"Eidsvoll";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Alvsbyn Municipality";"Sweden";"Fauske";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Falkenberg Municipality";"Sweden";"Flesberg";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Karlskoga Municipality";"Sweden";"Fredrikstad";"Norway";"1957";"0";"0";"0";"1";0;0;0
+"Gavle Municipality";"Sweden";"Gjovik";"Norway";"1946";"0";"1";"1";"1";0;0;0
+"Arjang";"Sweden";"Gol";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Koping";"Sweden";"Grimstad";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Skovde";"Sweden";"Halden";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Haparanda";"Sweden";"Hammerfest";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Trelleborg Municipality";"Sweden";"Hammerfest";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Umea Municipality";"Sweden";"Harstad";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Ystad Municipality";"Sweden";"Haugesund";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Varmlands lan";"Sweden";"Hedmark";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vannas";"Sweden";"Hemnes";"Norway";"1989";"0";"1";"1";"1";0;0;0
+"Essunga";"Sweden";"Hemsedal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Saffle Municipality";"Sweden";"Hol";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Tanum";"Sweden";"Hole";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vanersborg Municipality";"Sweden";"Holmestrand";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Karlskrona Municipality";"Sweden";"Horten";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Ronneby Municipality";"Sweden";"Hoyanger";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kristianstad Municipality";"Sweden";"Kongsberg";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Arvika";"Sweden";"Kongsvinger";"Norway";"1947";"0";"0";"0";"1";0;0;0
+"Trollhattan";"Sweden";"Kristiansand";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Harnosand";"Sweden";"Kristiansund";"Norway";"1948";"0";"0";"0";"0";0;0;0
+"Borlange";"Sweden";"Larvik";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Kramfors";"Sweden";"Levanger";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Falkoping";"Sweden";"Lier";"Norway";"1954";"0";"0";"0";"1";0;0;0
+"Leksand Municipality";"Sweden";"Lillehammer";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Nynashamn";"Sweden";"Lillesand";"Norway";"1944";"1";"1";"1";"1";0;0;0
+"Taby Municipality";"Sweden";"Lorenskog";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Vetlanda";"Sweden";"Lunner";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Ange";"Sweden";"Malvik";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Are";"Sweden";"Meraker";"Norway";"2005";"0";"0";"0";"0";0;0;0
+"Ockelbo";"Sweden";"Melhus";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Harjedalen";"Sweden";"Midtre Gauldal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Ostra Goinge";"Sweden";"Modum";"Norway";"1980";"0";"1";"1";"1";0;0;0
+"Boras";"Sweden";"Molde";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Karlstad Municipality";"Sweden";"Moss";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Hudiksvall";"Sweden";"Namsos";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Kiruna Municipality";"Sweden";"Narvik";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Enkoping";"Sweden";"Nedre Eiker";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Tomelilla";"Sweden";"Nordre Land";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Surahammar";"Sweden";"Nore og Uvdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Nykoping";"Sweden";"Notodden";"Norway";"0";"0";"1";"1";"1";1;0;1
+"Lindesberg";"Sweden";"Oppdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Hallefors";"Sweden";"Orkdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Gothenburg Municipality";"Sweden";"Oslo";"Norway";"1995";"1";"1";"1";"1";0;0;0
+"Stockholm Municipality";"Sweden";"Oslo";"Norway";"2002";"1";"1";"1";"1";1;0;1
+"Bohuslan";"Sweden";"Ostfold";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Timra";"Sweden";"Overhalla";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Ulricehamn Municipality";"Sweden";"Ovre Eiker";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Falkenberg Municipality";"Sweden";"Porsgrunn";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Forshaga";"Sweden";"Rade";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Skelleftea Municipality";"Sweden";"Rana";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Uppvidinge";"Sweden";"Rennebu";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Filipstad";"Sweden";"Ringebu";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vaxjo Municipality";"Sweden";"Ringerike";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Hjo";"Sweden";"Rissa";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Falun";"Sweden";"Roros";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Mariestad";"Sweden";"Sandnes";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Sodertalje Municipality";"Sweden";"Sarpsborg";"Norway";"1947";"1";"1";"1";"1";0;0;0
+"Berg";"Sweden";"Selbu";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Tingsryd";"Sweden";"Skaun";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Alingsas";"Sweden";"Skedsmo";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Solna Municipality";"Sweden";"Ski Municipality";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Uddevalla";"Sweden";"Skien";"Norway";"1947";"1";"1";"1";"1";0;0;0
+"Kungsor";"Sweden";"Spydeberg";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Botkyrka";"Sweden";"Stange";"Norway";"1961";"0";"0";"1";"1";0;0;0
+"Eskilstuna Municipality";"Sweden";"Stavanger";"Norway";"1947";"0";"0";"0";"0";0;0;0
+"Solleftea";"Sweden";"Steinkjer";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Ragunda";"Sweden";"Stjordal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vadstena";"Sweden";"Svelvik";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Linkoping Municipality";"Sweden";"Tonsberg";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Lulea Municipality";"Sweden";"Tromso";"Norway";"1950";"0";"0";"0";"0";0;0;0
+"Norrkoping Municipality";"Sweden";"Trondheim";"Norway";"1946";"0";"0";"0";"0";0;0;0
+"Kil Municipality";"Sweden";"Trysil";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Gallivare Municipality";"Sweden";"Tysfjord";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Falkenberg Municipality";"Sweden";"Ullensaker";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Oxelosund Municipality";"Sweden";"Vadso";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Lycksele";"Sweden";"Vefsn";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Katrineholm";"Sweden";"Vennesla";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Hallstahammar Municipality";"Sweden";"Verdal";"Norway";"1940";"0";"0";"0";"0";0;0;0
+"Sodermanlands lan";"Sweden";"Vest-Agder";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Vara";"Sweden";"Vestby";"Norway";"1990";"0";"0";"1";"1";0;0;0
+"Molndal Municipality";"Sweden";"Albertslund Municipality";"Denmark";"1972";"1";"1";"1";"1";0;0;0
+"Ronneby Municipality";"Sweden";"Aakirkeby";"Denmark";"1948";"1";"1";"1";"1";0;0;0
+"Gothenburg Municipality";"Sweden";"Aarhus Municipality";"Denmark";"1946";"1";"1";"1";"1";0;0;0
+"Eskilstuna Municipality";"Sweden";"Esbjerg Municipality";"Denmark";"1948";"0";"0";"1";"1";0;0;0
+"Uppsala Municipality";"Sweden";"Frederiksberg Municipality";"Denmark";"1947";"0";"1";"1";"1";0;0;0
+"Borlange";"Sweden";"Frederikshavn";"Denmark";"0";"0";"0";"0";"1";0;0;0
+"Solna Municipality";"Sweden";"Gladsaxe Municipality";"Denmark";"1952";"1";"1";"1";"1";0;0;0
+"Trelleborg Municipality";"Sweden";"Holbaek Municipality";"Denmark";"0";"1";"1";"1";"1";0;0;0
+"Oxelosund Municipality";"Sweden";"Holstebro";"Denmark";"1998";"0";"1";"1";"1";0;0;0
+"Karlstad Municipality";"Sweden";"Horsens Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Orebro Municipality";"Sweden";"Kolding Municipality";"Denmark";"1946";"0";"0";"1";"1";0;0;0
+"Ostersund";"Sweden";"Odense Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Vasteras Municipality";"Sweden";"Randers Municipality";"Denmark";"0";"0";"0";"1";"1";0;0;0
+"Strangnas";"Sweden";"Ribe";"Denmark";"0";"0";"1";"1";"1";0;0;0
+"Karlshamn";"Sweden";"Ronne";"Denmark";"1985";"1";"1";"1";"1";0;0;0
+"Ronneby Municipality";"Sweden";"Ronne";"Denmark";"2006";"1";"1";"1";"1";0;0;0
+"Simrishamn Municipality";"Sweden";"Ronne";"Denmark";"0";"1";"1";"1";"1";0;0;0
+"Solvesborg Municipality";"Sweden";"Ronne";"Denmark";"1947";"1";"1";"1";"1";0;0;0
+"Kristinehamn Municipality";"Sweden";"Skagen";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Jonkoping Municipality";"Sweden";"Svendborg Municipality";"Denmark";"0";"0";"0";"0";"1";0;0;0
+"Burlov Municipality";"Sweden";"Anklam";"EastGER";"1994";"1";"1";"1";"1";0;1;1
+"Oxelosund Municipality";"Sweden";"Bad Kotzting";"WestGER";"1998";"0";"0";"0";"0";0;0;0
+"Ronneby Municipality";"Sweden";"Steglitz-Zehlendorf, Berlin";"WestGER";"1976";"0";"0";"0";"1";0;0;0
+"Hassleholm Municipality";"Sweden";"Eckernforde";"WestGER";"1958";"0";"1";"1";"1";0;0;0
+"Eskilstuna Municipality";"Sweden";"Erlangen";"WestGER";"1961";"0";"0";"0";"0";0;0;0
+"Norrkoping Municipality";"Sweden";"Esslingen am Neckar";"WestGER";"1964";"0";"0";"0";"0";0;0;0
+"Falun";"Sweden";"Gutersloh";"WestGER";"1994";"0";"0";"0";"0";0;0;0
+"Vasteras Municipality";"Sweden";"Kassel";"WestGER";"1972";"0";"0";"0";"0";0;0;0
+"Boxholm";"Sweden";"Quickborn";"WestGER";"1974";"0";"0";"1";"1";0;0;0
+"Gothenburg Municipality";"Sweden";"Rostock";"EastGER";"1965";"1";"1";"1";"1";0;1;1
+"Ronneby Municipality";"Sweden";"Schopfheim";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Visby";"Sweden";"Soest";"WestGER";"1995";"0";"0";"0";"0";1;0;1
+"Karlshamn";"Sweden";"Stade";"WestGER";"1984";"0";"0";"1";"1";0;1;1
+"Malmo Municipality";"Sweden";"Stralsund";"EastGER";"1991";"1";"1";"1";"1";0;1;1
+"Trelleborg Municipality";"Sweden";"Stralsund";"EastGER";"2000";"1";"1";"1";"1";0;1;1
+"Kalmar Municipality";"Sweden";"Wismar";"EastGER";"2002";"1";"1";"1";"1";1;1;2
+"Solvesborg Municipality";"Sweden";"Wolgast";"EastGER";"1991";"1";"1";"1";"1";0;0;0
+"Umea Municipality";"Sweden";"Wurzburg";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Oxelosund Municipality";"Sweden";"Chojna";"Poland";"2004";"0";"1";"1";"1";0;0;0
+"Ronneby Municipality";"Sweden";"Elblag";"Poland";"1991";"1";"1";"1";"1";0;1;1
+"Karlskrona Municipality";"Sweden";"Gdynia";"Poland";"1990";"1";"1";"1";"1";0;0;0
+"Bromolla Municipality";"Sweden";"Kalisz";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Landskrona";"Sweden";"Kolobrzeg";"Poland";"2005";"1";"1";"1";"1";0;1;1
+"Simrishamn Municipality";"Sweden";"Kolobrzeg";"Poland";"2001";"1";"1";"1";"1";0;1;1
+"Kristianstad Municipality";"Sweden";"Koszalin";"Poland";"2004";"1";"1";"1";"1";0;1;1
+"Gothenburg Municipality";"Sweden";"Krakow";"Poland";"0";"0";"0";"0";"0";0;1;1
+"Orebro Municipality";"Sweden";"Lodz";"Poland";"2001";"0";"0";"0";"0";0;0;0
+"Botkyrka";"Sweden";"Alytus";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Linkoping Municipality";"Sweden";"Kaunas";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Vaxjo Municipality";"Sweden";"Kaunas";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Karlskrona Municipality";"Sweden";"Klaipeda";"Lithuania";"1989";"1";"1";"1";"1";0;0;0
+"Kalmar Municipality";"Sweden";"Panevezys";"Lithuania";"1992";"0";"0";"0";"1";1;0;1
+"Oxelosund Municipality";"Sweden";"Prienai";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Kristianstad Municipality";"Sweden";"Siauliai";"Lithuania";"1990";"0";"0";"1";"1";0;0;0
+"Ljungby";"Sweden";"Silute";"Lithuania";"1992";"0";"0";"1";"1";0;0;0
+"Stockholm Municipality";"Sweden";"Vilnius";"Lithuania";"0";"0";"0";"0";"0";1;0;1
+"Karlskrona Municipality";"Sweden";"Aizpute";"Latvia";"2009";"1";"1";"1";"1";0;0;0
+"Klippan Municipality";"Sweden";"Limbazi";"Latvia";"1998";"0";"1";"1";"1";0;1;1
+"Karlskoga Municipality";"Sweden";"Olaine";"Latvia";"0";"0";"0";"0";"1";0;0;0
+"Vadstena";"Sweden";"Olaine";"Latvia";"0";"0";"0";"1";"1";0;0;0
+"Stockholm Municipality";"Sweden";"Riga";"Latvia";"2002";"1";"1";"1";"1";1;1;2
+"Oxelosund Municipality";"Sweden";"Sigulda";"Latvia";"2004";"0";"1";"1";"1";0;0;0
+"Gothenburg Municipality";"Sweden";"Tallinn";"Estonia";"0";"1";"1";"1";"1";0;1;1
+"Malmo Municipality";"Sweden";"Tallinn";"Estonia";"1989";"1";"1";"1";"1";0;1;1
+"Taby Municipality";"Sweden";"Viimsi Parish";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Uddevalla";"Sweden";"Johvi";"Estonia";"1997";"1";"1";"1";"1";0;0;0
+"Staffanstorp Municipality";"Sweden";"Kohtla-Jarve";"Estonia";"2009";"1";"1";"1";"1";0;0;0
+"Karlskoga Municipality";"Sweden";"Narva";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Habo";"Sweden";"Paide";"Estonia";"1997";"0";"0";"0";"1";0;0;0
+"Oxelosund Municipality";"Sweden";"Turi";"Estonia";"2004";"0";"1";"1";"1";0;0;0
+"Amal";"Sweden";"Turi";"Estonia";"1993";"0";"0";"1";"1";0;0;0
+"Karlstad Municipality";"Sweden";"Jogeva";"Estonia";"1992";"0";"0";"0";"0";0;0;0
+"Solleftea";"Sweden";"Poltsamaa";"Estonia";"0";"0";"0";"1";"1";0;0;0
+"Eskilstuna Municipality";"Sweden";"Haapsalu";"Estonia";"2005";"0";"1";"1";"1";0;0;0
+"Haninge Municipality";"Sweden";"Haapsalu";"Estonia";"1998";"1";"1";"1";"1";0;0;0
+"Dorotea Municipality";"Sweden";"Haljala Parish";"Estonia";"1994";"0";"0";"0";"1";0;0;0
+"Soderhamn";"Sweden";"Kunda";"Estonia";"1994";"1";"1";"1";"1";0;0;0
+"Trosa Municipality";"Sweden";"Tapa";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Heby";"Sweden";"Kilingi-Nomme";"Estonia";"0";"0";"1";"1";"1";0;0;0
+"Helsingborg Municipality";"Sweden";"Parnu";"Estonia";"1999";"1";"1";"1";"1";0;1;1
+"Oskarshamn";"Sweden";"Parnu";"Estonia";"1989";"1";"1";"1";"1";0;1;1
+"Sodertalje Municipality";"Sweden";"Parnu";"Estonia";"1999";"1";"1";"1";"1";0;1;1
+"Varnamo";"Sweden";"Rapla";"Estonia";"0";"0";"0";"1";"1";0;0;0
+"Skovde";"Sweden";"Kuressaare";"Estonia";"1993";"0";"0";"0";"0";0;0;0
+"Kavlinge Municipality";"Sweden";"Alatskivi Parish";"Estonia";"1995";"0";"1";"1";"1";0;0;0
+"Kristinehamn Municipality";"Sweden";"Elva";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Essunga";"Sweden";"Torva";"Estonia";"2003";"0";"0";"0";"1";0;0;0
+"Timra";"Sweden";"Torva";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Hallsberg";"Sweden";"Valga";"Estonia";"1990";"0";"0";"0";"1";0;0;0
+"Haparanda";"Sweden";"Valga";"Estonia";"1995";"0";"0";"0";"1";0;0;0
+"Osthammar";"Sweden";"Valga";"Estonia";"1989";"0";"0";"0";"1";0;0;0
+"Harnosand";"Sweden";"Viljandi";"Estonia";"1990";"0";"0";"1";"1";0;1;1
+"Saffle Municipality";"Sweden";"Antsla Parish";"Estonia";"1994";"0";"0";"0";"1";0;0;0
+"Harryda";"Sweden";"Voru";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Landskrona";"Sweden";"Voru";"Estonia";"1992";"0";"0";"0";"1";0;0;0
+"Vadso";"Norway";"Arkhangelsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Skien";"Norway";"Belozersk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tromso";"Norway";"Nadym";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Trondheim";"Norway";"Naryan-Mar";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kirkenes";"Norway";"Nikel";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Mosjoen";"Norway";"Volkhov";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Hamina";"Finland";"Roros";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Jyvaskyla";"Finland";"Stavanger";"Norway";"1947";"0";"0";"0";"0";0;0;0
+"Kemi";"Finland";"Tromso";"Norway";"1940";"0";"0";"0";"0";0;0;0
+"Kokemaki";"Finland";"Lier";"Norway";"1951";"0";"1";"1";"1";0;0;0
+"Kuopio";"Finland";"Bodo";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Lahti";"Finland";"Alesund";"Norway";"1947";"0";"0";"0";"0";0;0;0
+"Naantali";"Finland";"Svelvik";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Nokia";"Finland";"Moss";"Norway";"1962";"0";"0";"1";"1";0;0;0
+"Oulu";"Finland";"Alta";"Norway";"1948";"0";"0";"0";"0";0;0;0
+"Ulstein";"Norway";"Pargas";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Porsgrunn";"Norway";"Pori";"Finland";"1956";"1";"1";"1";"1";0;0;0
+"Riihimaki";"Finland";"Skedsmo";"Norway";"1958";"0";"1";"1";"1";0;0;0
+"Rovaniemi";"Finland";"Narvik";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Salo";"Finland";"Levanger";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Sandnes";"Norway";"Salo";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Salo";"Finland";"Vennesla";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Tampere";"Finland";"Trondheim";"Norway";"1946";"0";"0";"0";"0";0;0;0
+"Turku";"Finland";"Bergen";"Norway";"1946";"0";"0";"0";"0";0;0;0
+"Asker";"Norway";"Eslov Municipality";"Sweden";"1940";"0";"1";"1";"1";0;0;0
+"Kragero Municipality";"Norway";"Gotland Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Nesodden";"Norway";"Hoganas Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Sande";"Norway";"Klippan Municipality";"Sweden";"1949";"0";"1";"1";"1";0;0;0
+"Farsund";"Norway";"Kristinehamn Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Hamar";"Norway";"Lund Municipality";"Sweden";"1947";"0";"0";"1";"1";0;0;0
+"Vestre Toten";"Norway";"Markaryd Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Sigdal";"Norway";"Ornskoldsvik Municipality";"Sweden";"0";"0";"0";"1";"1";0;0;0
+"Porsgrunn";"Norway";"Sigtuna Municipality";"Sweden";"1970";"1";"1";"1";"1";0;0;0
+"Mo i Rana";"Norway";"Skelleftea Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Oppegard";"Norway";"Sollentuna Municipality";"Sweden";"1955";"1";"1";"1";"1";0;0;0
+"Odda";"Norway";"Stenungsund Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Sandefjord";"Norway";"Varberg Municipality";"Sweden";"1950";"1";"1";"1";"1";0;0;0
+"Bamble";"Norway";"Vastervik Municipality";"Sweden";"1940";"1";"1";"1";"1";0;0;0
+"Onsoy";"Norway";"Albertslund Municipality";"Denmark";"0";"1";"1";"1";"1";0;0;0
+"Bergen";"Norway";"Aarhus Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Larvik";"Norway";"Frederikshavn";"Denmark";"0";"1";"1";"1";"1";0;0;0
+"Leikanger";"Norway";"Ribe";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Hoyanger";"Norway";"Ronne";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Farsund";"Norway";"Skagen";"Denmark";"0";"0";"0";"0";"1";0;0;0
+"Frogn Municipality";"Norway";"Mitte, Berlin";"WestGER";"1990";"0";"0";"0";"1";0;0;0
+"Haugesund";"Norway";"Emden";"WestGER";"2009";"0";"0";"0";"0";0;0;0
+"Bardu";"Norway";"Fussen";"WestGER";"1997";"0";"0";"0";"0";0;0;0
+"Mandal";"Norway";"Alytus";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Ski Municipality";"Norway";"Viimsi Parish";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Skien";"Norway";"Johvi";"Estonia";"2003";"1";"1";"1";"1";0;0;0
+"Frogn Municipality";"Norway";"Turi";"Estonia";"2004";"0";"1";"1";"1";0;0;0
+"Sirdal";"Norway";"Vaike-Maarja Parish";"Estonia";"1994";"0";"0";"0";"1";0;0;0
+"Gran";"Norway";"Parnu";"Estonia";"1992";"0";"1";"1";"1";0;1;1
+"Askim";"Norway";"Rapla";"Estonia";"0";"0";"1";"1";"1";0;0;0
+"Aalborg";"Denmark";"Kaliningrad";"Russia";"1994";"1";"1";"1";"1";0;1;1
+"Nordborg";"Denmark";"Kronstadt";"Russia";"0";"1";"1";"1";"1";0;0;0
+"Herning Municipality";"Denmark";"Kursk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Nyborg";"Denmark";"Petrozavodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Aarhus Municipality";"Denmark";"St. Petersburg";"Russia";"1989";"1";"1";"1";"1";0;0;0
+"Sydals Municipality";"Denmark";"Zhukovsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Koge Municipality";"Denmark";"Espoo";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Vordingborg";"Denmark";"Hamina";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Birkerod";"Denmark";"Jakobstad";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Karkkila";"Finland";"Holstebro";"Denmark";"1997";"0";"1";"1";"1";0;0;0
+"Hobro";"Denmark";"Kokemaki";"Finland";"1951";"0";"1";"1";"1";0;0;0
+"Kuopio";"Finland";"Svendborg Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Lahti";"Finland";"Randers Municipality";"Denmark";"1947";"0";"1";"1";"1";0;0;0
+"Nordfyn";"Denmark";"Naantali";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Nokia";"Finland";"Horsens Municipality";"Denmark";"1962";"0";"0";"1";"1";0;0;0
+"Sonderborg";"Denmark";"Pori";"Finland";"1952";"1";"1";"1";"1";0;0;0
+"Naestved Municipality";"Denmark";"Rauma";"Finland";"1947";"1";"1";"1";"1";0;0;0
+"Aalborg";"Denmark";"Riihimaki";"Finland";"1949";"0";"1";"1";"1";0;0;0
+"Odder";"Denmark";"Salo";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Varde";"Denmark";"Salo";"Finland";"0";"0";"0";"1";"1";0;0;0
+"Nyborg";"Denmark";"Salo";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Tampere";"Finland";"Odense Municipality";"Denmark";"1966";"0";"0";"1";"1";0;0;0
+"Turku";"Finland";"Aarhus Municipality";"Denmark";"1946";"1";"1";"1";"1";0;0;0
+"Hoje-Taastrup Municipality";"Denmark";"Angelholm Municipality";"Sweden";"1947";"1";"1";"1";"1";0;0;0
+"Rudersdal Municipality";"Denmark";"Eslov Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Naestved Municipality";"Denmark";"Gavle Municipality";"Sweden";"1947";"1";"1";"1";"1";0;0;0
+"Slagelse Municipality";"Denmark";"Gotland Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Ishoj Municipality";"Denmark";"Haninge Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Helsingor Municipality";"Denmark";"Helsingborg Municipality";"Sweden";"1995";"1";"1";"1";"1";0;0;0
+"Nykobing-Rorvig";"Denmark";"Hassleholm Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Herlev Municipality";"Denmark";"Hoganas Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Stevns Municipality";"Denmark";"Hoor Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Lyngby-Taarbaek Municipality";"Denmark";"Huddinge Municipality";"Sweden";"1951";"1";"1";"1";"1";0;0;0
+"Hillerod Municipality";"Denmark";"Karlskrona Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Koge Municipality";"Denmark";"Kristianstad Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Roskilde Municipality";"Denmark";"Linkoping Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Viborg Municipality";"Denmark";"Lund Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Odense Municipality";"Denmark";"Norrkoping Municipality";"Sweden";"1945";"1";"1";"1";"1";0;0;0
+"Ikast-Brande Municipality";"Denmark";"Ornskoldsvik Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Gribskov Municipality";"Denmark";"Osby Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Bornholm Municipality";"Denmark";"Simrishamn Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Skovbo";"Denmark";"Sjobo Municipality";"Sweden";"2004";"0";"1";"1";"1";0;0;0
+"Logstor";"Denmark";"Skelleftea Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Hvidovre Municipality";"Denmark";"Sollentuna Municipality";"Sweden";"1955";"1";"1";"1";"1";0;0;0
+"Vallensbaek Municipality";"Denmark";"Staffanstorp Municipality";"Sweden";"1997";"1";"1";"1";"1";0;0;0
+"Halsnaes Municipality";"Denmark";"Stenungsund Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Struer Municipality";"Denmark";"Sodertalje Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Bornholm Municipality";"Denmark";"Solvesborg Municipality";"Sweden";"1947";"1";"1";"1";"1";0;0;0
+"Rodovre Municipality";"Denmark";"Taby Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Haderslev Municipality";"Denmark";"Varberg Municipality";"Sweden";"1950";"1";"1";"1";"1";0;0;0
+"Herning Municipality";"Denmark";"Vanersborg Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Tonder Municipality";"Denmark";"Vastervik Municipality";"Sweden";"1940";"0";"1";"1";"1";0;0;0
+"Aabenraa Municipality";"Denmark";"Vaxjo Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Alesund";"Norway";"Randers Municipality";"Denmark";"1947";"0";"0";"0";"0";0;0;0
+"Silkeborg";"Denmark";"Arendal";"Norway";"1948";"1";"1";"1";"1";0;0;0
+"Holbaek Municipality";"Denmark";"As";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Rudersdal Municipality";"Denmark";"Asker";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Lyngby-Taarbaek Municipality";"Denmark";"Askim";"Norway";"1951";"1";"1";"1";"1";0;0;0
+"Frederikssund";"Denmark";"Aurskog-Holand";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Baerum";"Norway";"Frederiksberg Municipality";"Denmark";"1948";"1";"1";"1";"1";0;0;0
+"Tonder Municipality";"Denmark";"Bamble";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Bodo";"Norway";"Svendborg Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Drammen";"Norway";"Kolding Municipality";"Denmark";"0";"0";"1";"1";"1";0;0;0
+"Bronderslev Municipality";"Denmark";"Eidsberg";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Soro";"Denmark";"Eidsvoll";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Nykobing Mors";"Denmark";"Flekkefjord";"Norway";"1950";"0";"0";"0";"1";0;0;0
+"Lejre";"Denmark";"Flesberg";"Norway";"1970";"0";"1";"1";"1";0;0;0
+"Fredrikstad";"Norway";"Aalborg";"Denmark";"1951";"1";"1";"1";"1";0;0;0
+"Naestved Municipality";"Denmark";"Gjovik";"Norway";"1947";"0";"1";"1";"1";0;0;0
+"Fano";"Denmark";"Gol";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Grindsted";"Denmark";"Grimstad";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Ringsted";"Denmark";"Halden";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Viborg Municipality";"Denmark";"Hamar";"Norway";"1947";"0";"0";"1";"1";0;0;0
+"Ikast-Brande Municipality";"Denmark";"Hammerfest";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Helsingor Municipality";"Denmark";"Harstad";"Norway";"1953";"0";"0";"0";"0";0;0;0
+"Sollerod";"Denmark";"Haugesund";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Hedensted";"Denmark";"Hol";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Herning Municipality";"Denmark";"Holmestrand";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Hillerod Municipality";"Denmark";"Horten";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Koge Municipality";"Denmark";"Kongsberg";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Skive";"Denmark";"Kongsvinger";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Hjorring";"Denmark";"Kristiansand";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Fredericia";"Denmark";"Kristiansund";"Norway";"1948";"0";"0";"0";"0";0;0;0
+"Varde";"Denmark";"Levanger";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Mariagerfjord";"Denmark";"Lier";"Norway";"1954";"1";"1";"1";"1";0;0;0
+"Horsholm";"Denmark";"Lillehammer";"Norway";"1950";"0";"0";"1";"1";0;0;0
+"Kalundborg";"Denmark";"Lillesand";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Rodovre Municipality";"Denmark";"Lorenskog";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Frederikssund";"Denmark";"Lunner";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Naestved Municipality";"Denmark";"Melhus";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Langa";"Denmark";"Midtre Gauldal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Stevns Municipality";"Denmark";"Modum";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Vejle";"Denmark";"Molde";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Moss";"Norway";"Horsens Municipality";"Denmark";"0";"1";"1";"1";"1";0;0;0
+"Lolland";"Denmark";"Namsos";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Egedal";"Denmark";"Nedre Eiker";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Vordingborg";"Denmark";"Nordre Land";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Viborg Municipality";"Denmark";"Nore og Uvdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Nykobing Falster";"Denmark";"Notodden";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Jammerbugt";"Denmark";"Oppdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Sonderborg";"Denmark";"Orkdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Copenhagen";"Denmark";"Oslo";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Kerteminde";"Denmark";"Ovre Eiker";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Faaborg";"Denmark";"Porsgrunn";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Sonderborg";"Denmark";"Porsgrunn";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Logstor";"Denmark";"Rana";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vesthimmerland";"Denmark";"Rennebu";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Aabenraa Municipality";"Denmark";"Ringerike";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Jammerbugt";"Denmark";"Rissa";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vordingborg";"Denmark";"Roros";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Nyborg";"Denmark";"Sandnes";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Struer Municipality";"Denmark";"Sarpsborg";"Norway";"1947";"0";"1";"1";"1";0;0;0
+"Ikast-Brande Municipality";"Denmark";"Sigdal";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Solrod";"Denmark";"Skaun";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Tarnby";"Denmark";"Skedsmo";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Ski Municipality";"Norway";"Gladsaxe Municipality";"Denmark";"1955";"1";"1";"1";"1";0;0;0
+"Thisted";"Denmark";"Skien";"Norway";"1947";"1";"1";"1";"1";0;0;0
+"Struer Municipality";"Denmark";"Spydeberg";"Norway";"0";"0";"1";"1";"1";0;0;0
+"Brondby";"Denmark";"Stange";"Norway";"1967";"0";"0";"1";"1";0;0;0
+"Stavanger";"Norway";"Esbjerg Municipality";"Denmark";"1947";"0";"0";"0";"0";0;0;0
+"Hammel";"Denmark";"Steinkjer";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Broby";"Denmark";"Stjordal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Bogense";"Denmark";"Svelvik";"Norway";"1949";"1";"1";"1";"1";0;0;0
+"Roskilde Municipality";"Denmark";"Tonsberg";"Norway";"1994";"1";"1";"1";"1";0;0;0
+"Trondheim";"Norway";"Odense Municipality";"Denmark";"1946";"0";"0";"0";"0";0;0;0
+"Odder";"Denmark";"Vennesla";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Norddjurs";"Denmark";"Verdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Nakskov";"Denmark";"Alsfeld";"WestGER";"1963";"0";"0";"0";"0";0;0;0
+"Gladsaxe Municipality";"Denmark";"Berlin";"WestGER";"1968";"0";"0";"0";"1";0;1;1
+"Brondby";"Denmark";"Steglitz-Zehlendorf, Berlin";"WestGER";"1968";"0";"0";"0";"1";0;0;0
+"Nakskov";"Denmark";"Eckernforde";"WestGER";"1969";"1";"1";"1";"1";0;0;0
+"Nykobing Falster";"Denmark";"Eutin";"WestGER";"0";"1";"1";"1";"1";0;0;0
+"Rodding";"Denmark";"Garbsen";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Fredericia";"Denmark";"Herford";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Gentofte";"Denmark";"Husum";"WestGER";"1982";"0";"1";"1";"1";0;0;0
+"Silkeborg";"Denmark";"Kaiserslautern";"WestGER";"2000";"0";"0";"0";"0";0;0;0
+"Viborg Municipality";"Denmark";"Luneburg";"WestGER";"1992";"0";"1";"1";"1";0;1;1
+"Aarhus Municipality";"Denmark";"Rostock";"EastGER";"1964";"1";"1";"1";"1";0;1;1
+"Nexo";"Denmark";"Wolgast";"EastGER";"0";"1";"1";"1";"1";0;0;0
+"Nexo";"Denmark";"Kolobrzeg";"Poland";"0";"1";"1";"1";"1";0;1;1
+"Nyborg";"Denmark";"Kolobrzeg";"Poland";"1992";"1";"1";"1";"1";0;1;1
+"Nykobing Falster";"Denmark";"Lublin";"Poland";"1992";"0";"0";"0";"0";0;0;0
+"Korsor";"Denmark";"Police";"Poland";"0";"1";"1";"1";"1";0;0;0
+"Haderslev Municipality";"Denmark";"Rybnik";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Naestved Municipality";"Denmark";"Alytus";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Koge Municipality";"Denmark";"Klaipeda";"Lithuania";"1995";"1";"1";"1";"1";0;0;0
+"Fredericia";"Denmark";"Siauliai";"Lithuania";"1993";"0";"0";"1";"1";0;0;0
+"Nakskov";"Denmark";"Silute";"Lithuania";"1992";"1";"1";"1";"1";0;0;0
+"Egedal";"Denmark";"Saue";"Estonia";"1996";"1";"1";"1";"1";0;0;0
+"Billund Municipality";"Denmark";"Narva-Joesuu";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Fredensborg-Humlebaek";"Denmark";"Paide";"Estonia";"1997";"0";"1";"1";"1";0;0;0
+"Tommerup";"Denmark";"Vaike-Maarja Parish";"Estonia";"2007";"0";"1";"1";"1";0;0;0
+"Hedensted";"Denmark";"Polva";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Verden an der Aller, Lower Saxony";"WestGER";"Bagrationovsk";"Russia";"0";"0";"0";"0";"1";0;0;0
+"Herne, North Rhine-Westphalia";"WestGER";"Belgorod";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kirchheimbolanden";"WestGER";"Chernyakhovsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ettlingen";"WestGER";"Gatchina";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Pforzheim";"WestGER";"Irkutsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Bad Orb";"WestGER";"Istra";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Hanover";"WestGER";"Ivanovo";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Suhl";"WestGER";"Kaluga";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Braunschweig";"WestGER";"Kazan";"Russia";"0";"0";"0";"0";"0";1;0;1
+"Sassnitz";"EastGER";"Kingisepp";"Russia";"2003";"1";"1";"1";"1";0;0;0
+"Hochstadt";"WestGER";"Krasnogorsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Zweibrucken";"WestGER";"Kursk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Speyer";"WestGER";"Kursk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Witten";"WestGER";"Kursk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Drochtersen";"WestGER";"Mozhaysk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Anklam";"WestGER";"Nefteyugansk";"Russia";"0";"0";"0";"0";"0";1;0;1
+"Bielefeld";"WestGER";"Novgorod";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Duisberg";"WestGER";"Perm";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Bad Homburg vor der Hohe";"WestGER";"Petergof";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Neustrelitz";"WestGER";"Petrozavodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Neubrandenburg";"WestGER";"Petrozavodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Schwerte";"WestGER";"Piatigorsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Neuss";"WestGER";"Pskov";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Trier-Land";"WestGER";"Podolsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Frankenthal";"WestGER";"Pushkin";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Zerbst/Anhalt";"WestGER";"Pushkin";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Bert";"WestGER";"Pushkino";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Dortmund";"WestGER";"Rostov-on-Don";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Lindau";"WestGER";"Serpukhov";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Gelsenkirchen";"WestGER";"Shakhty";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Hemer";"WestGER";"Shchyolkovo";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Rothenburg ob der Tauber";"WestGER";"Suzdal";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ludenscheid";"WestGER";"Taganrog";"Russia";"1991";"0";"0";"0";"0";0;0;0
+"Badenweiler";"WestGER";"Taganrog";"Russia";"2002";"0";"0";"0";"0";0;0;0
+"Wolfsburg";"WestGER";"Tolyatti";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Villingen-Schwenningen";"WestGER";"Tula";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Halle";"WestGER";"Ufa";"Russia";"0";"0";"0";"0";"0";1;0;1
+"Mannheim";"WestGER";"Ulan-Ude";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Wesermarsch";"WestGER";"Voronezh";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Hanau";"WestGER";"Yaroslavl";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Bunde";"WestGER";"Jakobstad";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Jyvaskyla";"Finland";"Potsdam";"WestGER";"1985";"0";"0";"0";"0";0;0;0
+"Schwalm-Eder-Kreis";"WestGER";"Kajaani";"Finland";"1973";"0";"0";"0";"0";0;0;0
+"Karkkila";"Finland";"Bad Kotzting";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Mulheim an der Ruhr";"WestGER";"Kouvola";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Kuopio";"Finland";"Castrop-Rauxel";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Kuopio";"Finland";"Gera";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Garmisch-Partenkirchen";"WestGER";"Lahti";"Finland";"1987";"0";"0";"0";"0";0;0;0
+"Suhl";"WestGER";"Lahti";"Finland";"1988";"0";"0";"0";"0";0;0;0
+"Halle";"WestGER";"Oulu";"Finland";"1968";"0";"0";"0";"0";1;0;1
+"Leverkusen";"WestGER";"Oulu";"Finland";"1968";"0";"0";"0";"0";0;0;0
+"Pori";"Finland";"Bremerhaven";"WestGER";"1967";"0";"0";"0";"1";0;0;0
+"Pori";"Finland";"Stralsund";"EastGER";"1968";"1";"1";"1";"1";0;1;1
+"Bad Segeberg";"WestGER";"Riihimaki";"Finland";"1954";"0";"1";"1";"1";0;0;0
+"Rovaniemi";"Finland";"Kassel";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Rovaniemi";"Finland";"Neustrelitz";"EastGER";"1966";"0";"0";"1";"1";0;0;0
+"Puchheim";"WestGER";"Salo";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Tampere";"Finland";"Chemnitz";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Tampere";"Finland";"Essen";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Turku";"Finland";"Cologne";"WestGER";"1967";"0";"0";"0";"0";0;0;0
+"Turku";"Finland";"Rostock";"EastGER";"1963";"1";"1";"1";"1";0;1;1
+"Kamen";"WestGER";"Angelholm Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Soest";"WestGER";"Gotland Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Wittstock";"EastGER";"Hoganas Municipality";"Sweden";"2004";"0";"0";"1";"1";0;0;0
+"Rostock";"EastGER";"Karlskrona Municipality";"Sweden";"2000";"1";"1";"1";"1";1;0;1
+"Rendsburg";"WestGER";"Kristianstad Municipality";"Sweden";"1992";"1";"1";"1";"1";0;0;0
+"Grevesmuhlen";"WestGER";"Laxa Municipality";"Sweden";"2004";"0";"0";"0";"1";0;0;0
+"Greifswald";"EastGER";"Lund Municipality";"Sweden";"1990";"1";"1";"1";"1";1;0;1
+"Borken";"WestGER";"Molndal Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Fladungen";"WestGER";"Nora Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Tarp";"WestGER";"Ornskoldsvik Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Nortorf";"WestGER";"Perstorp Municipality";"Sweden";"1989";"0";"1";"1";"1";0;0;0
+"Barth";"EastGER";"Simrishamn Municipality";"Sweden";"1997";"1";"1";"1";"1";0;0;0
+"Grimmen";"EastGER";"Staffanstorp Municipality";"Sweden";"2007";"1";"1";"1";"1";0;0;0
+"Reinbek";"WestGER";"Taby Municipality";"Sweden";"1956";"0";"1";"1";"1";0;0;0
+"Lubeck";"WestGER";"Trelleborg Municipality";"Sweden";"0";"1";"1";"1";"1";1;0;1
+"Sassnitz";"EastGER";"Trelleborg Municipality";"Sweden";"1992";"1";"1";"1";"1";0;0;0
+"Schwerin";"EastGER";"Vaxjo Municipality";"Sweden";"1997";"0";"1";"1";"1";0;0;0
+"Lubeck";"WestGER";"Bergen";"Norway";"1996";"0";"0";"0";"0";1;0;1
+"Bergen";"Norway";"Rostock";"WestGER";"1965";"0";"0";"0";"0";0;1;1
+"Halden";"Norway";"Wismar";"EastGER";"1991";"1";"1";"1";"1";0;1;1
+"Hamar";"Norway";"Greifswald";"EastGER";"1997";"0";"0";"1";"1";0;1;1
+"Kristiansand";"Norway";"Munster";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Oberhof";"WestGER";"Lillehammer";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Garching";"WestGER";"Lorenskog";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Moss";"Norway";"Wismar";"EastGER";"0";"1";"1";"1";"1";0;1;1
+"Wahlstedt";"WestGER";"Nore og Uvdal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Stelle";"WestGER";"Notodden";"Norway";"0";"0";"0";"1";"1";0;0;0
+"Trondheim";"Norway";"Darmstadt";"WestGER";"1968";"0";"0";"0";"0";0;0;0
+"Grabow";"EastGER";"Albertslund Municipality";"Denmark";"0";"0";"1";"1";"1";0;0;0
+"Borken";"WestGER";"Albertslund Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Aalborg";"Denmark";"Rendsburg";"WestGER";"1967";"1";"1";"1";"1";0;0;0
+"Aalborg";"Denmark";"Wismar";"EastGER";"1961";"1";"1";"1";"1";0;1;1
+"Kiel";"WestGER";"Aarhus Municipality";"Denmark";"0";"1";"1";"1";"1";1;0;1
+"Berlin";"WestGER";"Copenhagen";"Denmark";"0";"0";"0";"0";"1";1;0;1
+"Frederikshavn";"Denmark";"Bremerhaven";"WestGER";"1979";"0";"0";"0";"1";0;0;0
+"Gladsaxe Municipality";"Denmark";"Blankenese";"WestGER";"0";"0";"1";"1";"1";0;0;0
+"Charlottenburg-Wilmersdorf, Berlin";"WestGER";"Gladsaxe Municipality";"Denmark";"1968";"0";"0";"0";"1";0;0;0
+"Minden";"WestGER";"Gladsaxe Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Neubrandenburg";"EastGER";"Gladsaxe Municipality";"Denmark";"1990";"0";"1";"1";"1";0;0;0
+"Holbaek Municipality";"Denmark";"Celle";"WestGER";"1980";"0";"0";"0";"1";0;0;0
+"Holstebro";"Denmark";"Bad Kotzting";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Delmenhorst";"WestGER";"Kolding Municipality";"Denmark";"1979";"0";"0";"0";"0";0;0;0
+"Schwerin";"EastGER";"Odense Municipality";"Denmark";"1995";"1";"1";"1";"1";0;0;0
+"Gustrow";"EastGER";"Ribe";"Denmark";"1991";"0";"1";"1";"1";0;0;0
+"Ratzeburg";"WestGER";"Ribe";"Denmark";"1989";"0";"1";"1";"1";0;0;0
+"Neustadt";"WestGER";"Ronne";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Wolgast";"EastGER";"Ronne";"Denmark";"0";"1";"1";"1";"1";0;0;0
+"Svendborg Municipality";"Denmark";"Stralsund";"EastGER";"1992";"1";"1";"1";"1";0;1;1
+"Vejen";"Denmark";"Wedel";"WestGER";"0";"0";"1";"1";"1";0;0;0
+"Teltow";"WestGER";"Ahlen";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Penzberg";"WestGER";"Ahlen";"WestGER";"2007";"0";"0";"0";"0";0;0;0
+"Bad Bergzabern";"WestGER";"Amberg";"WestGER";"1952";"0";"0";"0";"0";0;0;0
+"Schnaittenbach";"WestGER";"Amberg";"WestGER";"1954";"0";"0";"0";"0";0;0;0
+"Geretsried";"WestGER";"Amberg";"WestGER";"1970";"0";"0";"0";"0";0;0;0
+"Zella-Mehlis";"WestGER";"Andernach";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Heide";"WestGER";"Anklam";"EastGER";"0";"0";"1";"1";"1";0;1;1
+"Bad Schwartau";"WestGER";"Bad Doberan";"EastGER";"1989";"1";"1";"1";"1";0;0;0
+"Melle";"WestGER";"Bad Durrenberg";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Blankenfelde-Mahlow";"WestGER";"Bad Ems";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Greiz";"WestGER";"Bad Homburg";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Romhild";"WestGER";"Bad Konigshofen";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Neuruppin";"WestGER";"Bad Kreuznach";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Bad Langensalza";"WestGER";"Bad Nauheim";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Bad Freienwalde";"WestGER";"Bad Pyrmont";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Brotterode";"WestGER";"Bad Vilbel";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Bad Berka";"WestGER";"Bad Wildungen";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Freital";"WestGER";"Baden-Baden";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Rudolstadt";"WestGER";"Bayreuth";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Elterlein";"WestGER";"Belm";"WestGER";"2004";"0";"0";"0";"0";0;0;0
+"Mannheim";"WestGER";"Berlin";"WestGER";"1962";"0";"0";"0";"0";0;1;1
+"Marburg-Biedenkopf District";"WestGER";"Berlin";"WestGER";"1964";"0";"0";"0";"0";0;1;1
+"Minden";"WestGER";"Berlin";"WestGER";"1968";"0";"0";"0";"0";0;1;1
+"Bad Iburg";"WestGER";"Berlin";"WestGER";"1980";"0";"0";"0";"0";0;1;1
+"Waldeck-Frankenberg District";"WestGER";"Berlin";"WestGER";"1988";"0";"0";"0";"0";0;1;1
+"Rheingau-Taunus District";"WestGER";"Berlin";"WestGER";"1991";"0";"0";"0";"0";0;1;1
+"Forchheim District";"WestGER";"Berlin";"WestGER";"1991";"0";"0";"0";"0";0;1;1
+"Kulmbach District";"WestGER";"Berlin";"WestGER";"1991";"0";"0";"0";"0";0;1;1
+"Wiesbaden";"WestGER";"Berlin";"WestGER";"1964";"0";"0";"0";"0";0;1;1
+"Bergstrasse District";"WestGER";"Berlin";"WestGER";"1969";"0";"0";"0";"0";0;1;1
+"Ingelheim am Rhein";"WestGER";"Berlin";"WestGER";"1971";"0";"0";"0";"0";0;1;1
+"Porta Westfalica";"WestGER";"Berlin";"WestGER";"1973";"0";"0";"0";"0";0;1;1
+"Limburg-Weilburg District";"WestGER";"Berlin";"WestGER";"1980";"0";"0";"0";"0";0;1;1
+"Lauingen";"WestGER";"Berlin";"WestGER";"1999";"0";"0";"0";"1";0;1;1
+"Lahn-Dill District";"WestGER";"Berlin";"WestGER";"1961";"0";"0";"0";"0";0;1;1
+"Hamm";"WestGER";"Berlin";"WestGER";"1962";"0";"0";"0";"0";0;1;1
+"Kassel";"WestGER";"Berlin";"WestGER";"1977";"0";"0";"0";"0";0;1;1
+"Bottrop";"WestGER";"Berlin";"WestGER";"1983";"0";"0";"0";"0";0;1;1
+"Schwalm-Eder District";"WestGER";"Berlin";"WestGER";"1992";"0";"0";"0";"0";0;1;1
+"Wetzlar";"WestGER";"Berlin";"WestGER";"1959";"0";"0";"0";"0";0;1;1
+"Cologne";"WestGER";"Berlin";"WestGER";"1967";"0";"0";"0";"0";0;1;1
+"Leonberg";"WestGER";"Berlin";"WestGER";"1970";"0";"0";"0";"0";0;1;1
+"Vogelsberg District";"WestGER";"Berlin";"WestGER";"1964";"0";"0";"0";"0";0;1;1
+"Lauterbach";"WestGER";"Berlin";"WestGER";"1966";"0";"0";"0";"0";0;1;1
+"Bad Steben";"WestGER";"Berlin";"WestGER";"1988";"0";"0";"0";"0";0;1;1
+"Melle";"WestGER";"Reinickendorf, Berlin";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Blomberg";"WestGER";"Berlin";"WestGER";"1990";"0";"0";"0";"0";0;1;1
+"Zeltingen-Rachtig";"WestGER";"Berlin";"WestGER";"0";"0";"0";"0";"0";0;1;1
+"Lichtenfels District";"WestGER";"Berlin";"WestGER";"0";"0";"0";"0";"0";0;1;1
+"Oberhavel District";"WestGER";"Berlin";"WestGER";"0";"0";"0";"0";"1";0;1;1
+"Schmalkalden-Meiningen District";"WestGER";"Berlin";"WestGER";"0";"0";"0";"0";"0";0;1;1
+"Siegen-Wittgenstein District";"WestGER";"Berlin";"WestGER";"1952";"0";"0";"0";"0";0;1;1
+"Siegen";"WestGER";"Berlin";"WestGER";"1952";"0";"0";"0";"0";0;1;1
+"Nauen";"WestGER";"Spandau, Berlin";"WestGER";"1988";"0";"0";"0";"1";0;0;0
+"Bad Godesberg, Bonn";"WestGER";"Berlin";"WestGER";"1962";"0";"0";"0";"0";0;1;1
+"Gottingen";"WestGER";"Berlin";"WestGER";"1962";"0";"0";"0";"0";1;1;2
+"Hannoversch Munden";"WestGER";"Berlin";"WestGER";"1962";"0";"0";"0";"0";0;1;1
+"Rendsburg-Eckernforde District";"WestGER";"Steglitz-Zehlendorf, Berlin";"WestGER";"1964";"0";"0";"0";"1";0;0;0
+"Bremerhaven";"WestGER";"Steglitz-Zehlendorf, Berlin";"WestGER";"1965";"0";"0";"0";"1";0;0;0
+"Nentershausen";"WestGER";"Berlin";"WestGER";"1966";"0";"0";"0";"0";0;1;1
+"Hagen";"WestGER";"Berlin";"WestGER";"1967";"0";"0";"0";"0";0;1;1
+"Westerwald District";"WestGER";"Berlin";"WestGER";"1970";"0";"0";"0";"0";0;1;1
+"Luchow-Dannenberg District";"WestGER";"Steglitz-Zehlendorf, Berlin";"WestGER";"1979";"0";"0";"0";"1";0;0;0
+"Konigs Wusterhausen";"WestGER";"Steglitz-Zehlendorf, Berlin";"WestGER";"1988";"0";"0";"0";"1";0;0;0
+"Bad Kreuznach";"WestGER";"Berlin";"WestGER";"1964";"0";"0";"0";"0";0;1;1
+"Penzberg";"WestGER";"Berlin";"WestGER";"1964";"0";"0";"0";"0";0;1;1
+"Wuppertal";"WestGER";"Berlin";"WestGER";"1964";"0";"0";"0";"0";0;1;1
+"Paderborn District";"WestGER";"Berlin";"WestGER";"1975";"0";"0";"0";"0";0;1;1
+"Teltow-Flaming District";"WestGER";"Tempelhof-Schoneberg, Berlin";"WestGER";"1991";"0";"0";"0";"1";0;0;0
+"Werra-Meissner District";"WestGER";"Berlin";"WestGER";"2001";"0";"0";"0";"0";0;1;1
+"Odernheim";"WestGER";"Berlin";"WestGER";"1997";"0";"0";"0";"0";0;1;1
+"Rheine";"WestGER";"Bernburg";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Stadt Wehlen";"WestGER";"Bernkastel-Kues";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Bad Kostritz";"WestGER";"Bitburg";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Sommerda";"WestGER";"Boblingen";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Magdeburg";"WestGER";"Braunschweig";"WestGER";"1987";"0";"0";"0";"0";1;1;2
+"Buckow";"WestGER";"Brilon";"WestGER";"2003";"0";"0";"0";"0";0;0;0
+"Hohenstein-Ernstthal";"WestGER";"Burghausen";"WestGER";"2002";"0";"0";"0";"0";0;0;0
+"Ribnitz-Damgarten";"EastGER";"Buxtehude";"WestGER";"1990";"0";"0";"1";"1";0;1;1
+"Zehdenik an der Havel";"WestGER";"Castrop-Rauxel";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Quedlinburg";"WestGER";"Celle";"WestGER";"1991";"0";"0";"0";"0";1;0;1
+"Ravensburg";"WestGER";"Coswig";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Stadtallendorf";"WestGER";"Coswig an der Elbe";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Gelsenkirchen";"WestGER";"Cottbus";"WestGER";"1995";"0";"0";"0";"0";0;0;0
+"Wiehl";"WestGER";"Crimmitschau";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Binz";"EastGER";"Cuxhaven";"WestGER";"1990";"0";"0";"1";"1";0;0;0
+"Sassnitz";"EastGER";"Cuxhaven";"WestGER";"1990";"0";"0";"1";"1";0;0;0
+"Genthin";"WestGER";"Datteln";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Ludwigshafen";"WestGER";"Dessau-Rosslau";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Edenkoben";"WestGER";"Dinkelsbuhl";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Schmalkalden";"WestGER";"Dinkelsbuhl";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Unna";"WestGER";"Dobeln";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Hainichen";"WestGER";"Dorsten";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Dusseldorf";"WestGER";"Chemnitz";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Butzow";"EastGER";"Eckernforde";"WestGER";"1990";"1";"1";"1";"1";0;0;0
+"Eilenburg";"WestGER";"Butzbach";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Putbus";"EastGER";"Eutin";"WestGER";"1990";"1";"1";"1";"1";0;0;0
+"Meissen";"WestGER";"Fellbach";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Neubrandenburg";"EastGER";"Flensburg";"WestGER";"1987";"0";"1";"1";"1";0;0;0
+"Possneck";"WestGER";"Forchheim";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Heilbronn";"WestGER";"Frankfurt Oder";"WestGER";"1988";"0";"0";"0";"0";0;1;1
+"Freiberg";"WestGER";"Amberg";"WestGER";"1939";"0";"0";"0";"0";0;0;0
+"Freiberg";"WestGER";"Darmstadt";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Clausthal-Zellerfeld";"WestGER";"Freiberg";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Delitzsch";"WestGER";"Friedrichshafen";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Schonebeck (Elbe)";"WestGER";"Garbsen";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Bischofswerda";"WestGER";"Geislingen an der Steige";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Lutherstadt Wittenberg";"WestGER";"Gottingen";"WestGER";"1988";"0";"0";"0";"0";0;1;1
+"Hermsdorf";"WestGER";"Grunstadt";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Peine";"WestGER";"Grunstadt";"WestGER";"2003";"0";"0";"0";"0";0;0;0
+"Burg";"WestGER";"Gummersbach";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Steglitz-Zehlendorf, Berlin";"WestGER";"Hagen";"WestGER";"1967";"0";"0";"0";"0";0;0;0
+"Hildesheim";"WestGER";"Halle an der Saale";"WestGER";"1992";"0";"0";"0";"0";1;0;1
+"Quedlinburg";"WestGER";"Hameln";"WestGER";"1991";"0";"0";"0";"0";1;1;2
+"Hamburg";"WestGER";"Dresden";"WestGER";"1987";"0";"0";"0";"0";1;0;1
+"Limbach-Oberfrohna";"WestGER";"Hechingen";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Heidelberg";"WestGER";"Bautzen";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Heidenheim";"WestGER";"Dobeln";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Haldensleben";"WestGER";"Helmstedt";"WestGER";"1990";"0";"0";"0";"1";0;1;1
+"Mucheln";"WestGER";"Hemsbach";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Quedlinburg";"WestGER";"Herford";"WestGER";"1990";"0";"0";"0";"0";1;0;1
+"Eisleben";"WestGER";"Herne";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Hohenstein-Ernstthal";"WestGER";"Hockenheim";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Furstenau";"WestGER";"Hohen Neuendorf";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Mullheim";"WestGER";"Hohen Neuendorf";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Heilbad Heiligenstadt";"WestGER";"Husum";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Ibbenburen";"WestGER";"Dessau-Rosslau";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Glauchau";"WestGER";"Iserlohn";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Jena";"WestGER";"Erlangen";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Zerbst";"WestGER";"Jever";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Asslar";"WestGER";"Juterbog";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Waldbrol";"WestGER";"Juterbog";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Brandenburg an der Havel";"WestGER";"Kaiserslautern";"WestGER";"1988";"0";"0";"0";"0";1;0;1
+"Kamenz";"WestGER";"Alzey";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Karlsruhe";"WestGER";"Halle an der Saale";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Mitte, Berlin";"WestGER";"Kassel";"WestGER";"1962";"0";"0";"0";"0";0;0;0
+"Arnstadt";"WestGER";"Kassel";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Bad Durkheim";"WestGER";"Kempten";"WestGER";"1951";"0";"0";"0";"0";0;0;0
+"Waltershausen";"WestGER";"Korbach";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Beeskow";"WestGER";"Krefeld";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Rodewisch";"WestGER";"Langenhagen";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Leipzig";"WestGER";"Hanover";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Leipzig";"WestGER";"Frankfurt am Main";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Stendal";"WestGER";"Lemgo";"WestGER";"1988";"0";"0";"0";"0";1;0;1
+"Frauenwald";"WestGER";"Liederbach am Taunus";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Marienberg";"WestGER";"Lingen";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Meerane";"WestGER";"Lorrach";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Bad Liebenwerda";"WestGER";"Lubbecke";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Dessau";"WestGER";"Ludwigshafen";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Ludwigslust";"EastGER";"Ahrensburg";"WestGER";"1990";"0";"1";"1";"1";0;0;0
+"Kulmbach";"WestGER";"Luneburg";"WestGER";"1967";"0";"0";"0";"0";0;1;1
+"Kothen";"WestGER";"Luneburg";"WestGER";"0";"0";"0";"0";"0";0;1;1
+"Demmin";"WestGER";"Lunen";"WestGER";"0";"0";"0";"0";"0";1;0;1
+"Mainz";"WestGER";"Erfurt";"WestGER";"1988";"0";"0";"0";"0";0;1;1
+"Moormerland";"WestGER";"Malchow";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Langballig";"WestGER";"Malchow";"EastGER";"1990";"0";"1";"1";"1";0;0;0
+"Eisenach";"WestGER";"Marburg";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Luckau";"WestGER";"Merzig";"WestGER";"2009";"0";"0";"0";"0";0;0;0
+"Possneck";"WestGER";"Mosbach";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Eisleben";"WestGER";"Memmingen";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Eschwege";"WestGER";"Muhlhausen";"WestGER";"1989";"0";"0";"0";"0";0;1;1
+"Munster";"WestGER";"Muhlhausen";"WestGER";"1990";"0";"0";"0";"0";0;1;1
+"Spandau, Berli";"WestGER";"Nauen";"WestGER";"1988";"0";"0";"0";"1";0;0;0
+"Naumburg";"WestGER";"Aachen";"WestGER";"1988";"0";"0";"0";"0";1;0;1
+"Steinfurt";"WestGER";"Neubukow";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Reinfeld";"WestGER";"Neubukow";"EastGER";"1991";"1";"1";"1";"1";0;0;0
+"Nordhausen";"WestGER";"Bochum";"WestGER";"1990";"0";"0";"0";"0";1;0;1
+"Nuremberg";"WestGER";"Gera";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Zerbst";"WestGER";"Nurtingen";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Colditz";"WestGER";"Ochsenfurt";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Osnabruck";"WestGER";"Greifswald";"WestGER";"1988";"0";"0";"0";"0";0;1;1
+"Ludwigsfelde";"WestGER";"Paderborn";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Potsdam";"WestGER";"Bonn";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Stavenhagen";"EastGER";"Preetz";"WestGER";"1990";"0";"1";"1";"1";0;0;0
+"Quickborn";"WestGER";"Malchow";"EastGER";"1990";"0";"1";"1";"1";0;0;0
+"Beelitz";"WestGER";"Ratingen";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Pirna";"WestGER";"Remscheid";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Schmalkalden";"WestGER";"Remscheid";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Ludwigsfelde";"WestGER";"Rheinfelden";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Greiz";"WestGER";"Rosenheim";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Rostock";"WestGER";"Bremen";"WestGER";"1987";"0";"0";"0";"1";1;1;2
+"Gotha";"WestGER";"Salzgitter";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Wesel";"WestGER";"Salzwedel";"WestGER";"1990";"0";"0";"0";"0";0;1;1
+"Saarbrucken";"WestGER";"Cottbus";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Saarlouis";"WestGER";"Eisenhuttenstadt";"WestGER";"1986";"0";"0";"0";"0";0;0;0
+"Kleinmachnow";"WestGER";"Schopfheim";"WestGER";"1996";"0";"0";"0";"0";0;0;0
+"Schwabisch Hall";"WestGER";"Neustrelitz";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Thale";"WestGER";"Seesen";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Torgau";"WestGER";"Sindelfingen";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Herzberg";"WestGER";"Soest";"WestGER";"1995";"0";"0";"0";"0";0;0;0
+"Stralsund";"EastGER";"Kiel";"WestGER";"1987";"1";"1";"1";"1";1;1;2
+"Stadtbergen";"WestGER";"Olbernhau";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Duderstadt";"WestGER";"Tauberbischofsheim";"WestGER";"1961";"0";"0";"0";"0";1;0;1
+"Espelkamp";"WestGER";"Torgelow";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Sande";"WestGER";"Ueckermunde";"EastGER";"2007";"1";"1";"1";"1";0;0;0
+"Pattensen";"WestGER";"Ueckermunde";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Walldorf";"WestGER";"Walldorf";"WestGER";"2007";"0";"0";"0";"0";0;0;0
+"Wurzen";"WestGER";"Warstein";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Trier";"WestGER";"Weimar";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Fulda";"WestGER";"Weimar";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Westerburg";"WestGER";"Grunstadt";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Neukolln, Berlin";"WestGER";"Wetzlar";"WestGER";"1959";"0";"0";"0";"0";0;0;0
+"Ilmenau";"WestGER";"Wetzlar";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Friedrichshain-Kreuzberg, Berlin";"WestGER";"Wiesbaden";"WestGER";"2001";"0";"0";"0";"0";0;0;0
+"Gorlitz";"WestGER";"Wiesbaden";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Burgel";"WestGER";"Willich";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Premnitz";"WestGER";"Willich";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Lubeck";"WestGER";"Wismar";"EastGER";"1987";"1";"1";"1";"1";1;1;2
+"Wolfsburg";"WestGER";"Halberstadt";"WestGER";"1989";"0";"0";"0";"0";0;1;1
+"Wolgast";"EastGER";"Wedel";"WestGER";"1990";"0";"1";"1";"1";0;0;0
+"Worms";"WestGER";"Bautzen";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Tempelhof-Schoneberg, Berlin";"WestGER";"Wuppertal";"WestGER";"1964";"0";"0";"0";"0";0;0;0
+"Schwerin";"WestGER";"Wuppertal";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Suhl";"WestGER";"Wurzburg";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Villingen-Schwenningen";"WestGER";"Zittau";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Zwickau";"WestGER";"Dortmund";"WestGER";"1988";"0";"0";"0";"0";0;0;0
+"Lilienthal";"WestGER";"Bielsko-Biala";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Barsinghausen";"WestGER";"Brzeg Dolny";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Altotting";"WestGER";"Czestochowa";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Pforzheim";"WestGER";"Czestochowa";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Lunen";"WestGER";"Kalisz";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Torgelow";"WestGER";"Kalisz";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Grimmen";"WestGER";"Kalisz";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Bad Oldesloe";"WestGER";"Kolobrzeg";"Poland";"1996";"0";"1";"1";"1";0;1;1
+"Barth";"EastGER";"Kolobrzeg";"Poland";"2000";"1";"1";"1";"1";0;1;1
+"Pankow, Berlin";"WestGER";"Kolobrzeg";"Poland";"1994";"0";"0";"0";"1";0;1;1
+"Neubrandenburg";"EastGER";"Koszalin";"Poland";"1987";"0";"1";"1";"1";0;1;1
+"Neumunster";"WestGER";"Koszalin";"Poland";"1990";"1";"1";"1";"1";0;1;1
+"Tempelhof-Schoneberg, Berlin";"WestGER";"Koszalin";"Poland";"1995";"0";"0";"0";"1";0;1;1
+"Schwedt";"EastGER";"Koszalin";"Poland";"2004";"0";"1";"1";"1";0;1;1
+"Delmenhorst";"WestGER";"Lublin";"Poland";"1992";"0";"0";"0";"0";0;0;0
+"Bad Freienwalde";"WestGER";"Miedzyrzecz";"Poland";"2001";"0";"0";"0";"1";0;0;0
+"Charlottenburg-Wilmersdorf, Berlin";"WestGER";"Miedzyrzecz";"Poland";"1993";"0";"0";"0";"1";0;0;0
+"Haren";"WestGER";"Miedzyrzecz";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Enzkreis";"WestGER";"Myslowice";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Gelsenkirchen";"WestGER";"Olsztyn";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Offenburg";"WestGER";"Olsztyn";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Esslingen";"WestGER";"Piotrkow Trybunalski";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Pasewalk";"EastGER";"Police";"Poland";"1999";"1";"1";"1";"1";0;0;0
+"Berlin";"WestGER";"Poznan";"Poland";"0";"0";"0";"0";"0";1;0;1
+"Bielefeld";"WestGER";"Rzeszow";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Bedburg-Hau";"WestGER";"Rybnik";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Eurasburg";"WestGER";"Rybnik";"Poland";"2001";"0";"0";"0";"0";0;0;0
+"Kothen";"WestGER";"Siemianowice Slaskie";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Witten";"WestGER";"Tczew";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Werder (Havel)";"WestGER";"Tczew";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Gladbeck";"WestGER";"Wodzislaw Slaski";"Poland";"1990";"0";"0";"0";"0";0;0;0
+"Mettmann";"WestGER";"Znin";"Poland";"1997";"0";"0";"0";"0";0;0;0
+"Wendelstein, Bavaria";"WestGER";"Zukowo";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Leipzig";"WestGER";"Klaipeda";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Lubeck";"WestGER";"Klaipeda";"Lithuania";"1990";"1";"1";"1";"1";1;0;1
+"Rugen";"EastGER";"Klaipeda";"Lithuania";"1993";"1";"1";"1";"1";0;0;0
+"Teterow";"EastGER";"Siauliai";"Lithuania";"1999";"0";"0";"1";"1";0;0;0
+"Emmerich";"WestGER";"Silute";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Barsbuttel";"WestGER";"Keila";"Estonia";"1993";"0";"1";"1";"1";0;0;0
+"Schwerin";"EastGER";"Tallinn";"Estonia";"1993";"1";"1";"1";"1";0;1;1
+"Barleben";"WestGER";"Viimsi Parish";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Butzow";"EastGER";"Sillamae";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Annaberg-Buchholz";"WestGER";"Paide";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Schonberg";"WestGER";"Haljala Parish";"Estonia";"1992";"1";"1";"1";"1";0;0;0
+"Lutjenburg";"WestGER";"Rakvere";"Estonia";"1999";"1";"1";"1";"1";0;0;0
+"Lubz";"WestGER";"Valga";"Estonia";"1995";"0";"0";"0";"1";0;0;0
+"Bad Segeberg";"WestGER";"Voru";"Estonia";"1991";"0";"0";"0";"1";0;0;0
+"Slupsk";"Poland";"Arkhangelsk";"Russia";"0";"0";"0";"0";"0";1;0;1
+"Gorowo Ilaweckie";"Poland";"Bagrationovsk";"Russia";"0";"1";"1";"1";"1";0;0;0
+"Pabianice";"Poland";"Balakovo";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Nysa";"Poland";"Baltiysk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Opole";"Poland";"Belgorod";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Konin";"Poland";"Bryansk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Grudziadz";"Poland";"Chernyakhovsk";"Russia";"1995";"0";"1";"1";"1";0;0;0
+"Wegorzewo";"Poland";"Chernyakhovsk";"Russia";"1992";"0";"1";"1";"1";0;0;0
+"Warsaw";"Poland";"Grozny";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Lukow";"Poland";"Grozny";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Pabianice";"Poland";"Gusev";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kamienna Gora";"Poland";"Ivangorod";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Bedzin";"Poland";"Izhevsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Zabrze";"Poland";"Kaliningrad";"Russia";"1998";"0";"0";"0";"0";0;1;1
+"Siedlce";"Poland";"Kirov";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Wagrowiec";"Poland";"Krasnogorsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Pila";"Poland";"Kronstadt";"Russia";"0";"0";"0";"1";"1";0;0;0
+"Krakow";"Poland";"Moscow";"Russia";"0";"0";"0";"0";"0";1;0;1
+"Ujazd";"Poland";"Mozhaysk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Szczecin";"Poland";"Murmansk";"Russia";"0";"0";"0";"0";"0";1;0;1
+"Plock";"Poland";"Mytishchi";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ostroda";"Poland";"Neman";"Russia";"0";"0";"1";"1";"1";0;0;0
+"Legnica";"Poland";"Orenburg";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Radom";"Poland";"Ozyory";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Sopot";"Poland";"Petergof";"Russia";"0";"1";"1";"1";"1";0;0;0
+"Warminsko-mazurskie";"Poland";"Podolsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ostrow Mazowiecka";"Poland";"Ryazan";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Gniezno";"Poland";"Sergiyev Posad";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Warsaw";"Poland";"Sochi";"Russia";"1997";"0";"0";"0";"0";0;0;0
+"Belchatow";"Poland";"Sovetsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Lidzbark";"Poland";"Sovetsk";"Russia";"0";"0";"0";"1";"1";0;0;0
+"Lublin";"Poland";"Tver";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Jelenia Gora";"Poland";"Vladimir";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Jyvaskyla";"Finland";"Poznan";"Poland";"1974";"0";"0";"0";"0";0;0;0
+"Karkkila";"Finland";"Chojna";"Poland";"2004";"0";"1";"1";"1";0;0;0
+"Opole";"Poland";"Kuopio";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Puck";"Poland";"Naantali";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Pori";"Finland";"Kolobrzeg";"Poland";"1975";"1";"1";"1";"1";0;1;1
+"Rovaniemi";"Finland";"Olsztyn";"Poland";"1976";"0";"0";"1";"1";0;0;0
+"Tampere";"Finland";"Lodz";"Poland";"1996";"0";"0";"0";"0";0;0;0
+"Turku";"Finland";"Gdansk";"Poland";"1958";"1";"1";"1";"1";0;1;1
+"Kamien Pomorski";"Poland";"Bromolla Municipality";"Sweden";"0";"1";"1";"1";"1";1;0;1
+"Gniezno";"Poland";"Falkenberg Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Cracov";"Poland";"Gothenburg Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Darlowo";"Poland";"Hassleholm Municipality";"Sweden";"1996";"0";"1";"1";"1";1;0;1
+"Pyrzyce";"Poland";"Horby Municipality";"Sweden";"1992";"0";"1";"1";"1";0;0;0
+"Rumia";"Poland";"Hultsfred Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Gdansk";"Poland";"Kalmar Municipality";"Sweden";"1991";"1";"1";"1";"1";1;1;2
+"Brodnica";"Poland";"Kristinehamn Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Zabrze";"Poland";"Lund Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Szczecin";"Poland";"Malmo Municipality";"Sweden";"1999";"1";"1";"1";"1";1;0;1
+"Bytow";"Poland";"Markaryd Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Gliwice";"Poland";"Nacka Municipality";"Sweden";"1991";"0";"0";"0";"0";0;0;0
+"Trzebiatow";"Poland";"Sjobo Municipality";"Sweden";"1991";"0";"1";"1";"1";1;0;1
+"Wolin";"Poland";"Staffanstorp Municipality";"Sweden";"2004";"1";"1";"1";"1";1;0;1
+"Malbork";"Poland";"Solvesborg Municipality";"Sweden";"1999";"1";"1";"1";"1";0;0;0
+"Mikolajki";"Poland";"Ulricehamn Municipality";"Sweden";"0";"0";"0";"1";"1";0;0;0
+"Pobiedziska";"Poland";"Vaxjo Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Swinoujscie";"Poland";"Ystad Municipality";"Sweden";"1990";"1";"1";"1";"1";0;0;0
+"Kristiansand";"Norway";"Gdynia";"Poland";"1991";"1";"1";"1";"1";0;0;0
+"Malbork";"Poland";"Larvik";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Nowy Sacz";"Poland";"Narvik";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Oslo";"Norway";"Warsaw";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Choczewo";"Poland";"Somna";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Gladsaxe Municipality";"Denmark";"Koszalin";"Poland";"1990";"1";"1";"1";"1";0;1;1
+"Helsingor Municipality";"Denmark";"Gdansk";"Poland";"1992";"1";"1";"1";"1";0;1;1
+"Holstebro";"Denmark";"Chojna";"Poland";"2004";"0";"1";"1";"1";0;0;0
+"Katowice";"Poland";"Odense Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Odense Municipality";"Denmark";"Torun";"Poland";"0";"0";"0";"1";"1";0;1;1
+"Jelenia Gora";"Poland";"Randers Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Darlowo";"Poland";"Ronne";"Denmark";"0";"1";"1";"1";"1";1;0;1
+"Wladyslawowo";"Poland";"Ronne";"Denmark";"0";"1";"1";"1";"1";0;0;0
+"Stezyca";"Poland";"Svendborg Municipality";"Denmark";"0";"0";"0";"0";"0";0;0;0
+"Koscian";"Poland";"Alzey";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Bystrzyca Klodzka";"Poland";"Amberg";"WestGER";"2001";"0";"0";"0";"0";0;0;0
+"Ustka";"Poland";"Anklam";"EastGER";"1995";"1";"1";"1";"1";0;1;1
+"Olesno";"Poland";"Arnsberg";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Ciechocinek";"Poland";"Bad Durrenberg";"WestGER";"1996";"0";"0";"0";"0";0;0;0
+"Bad Kotzting";"WestGER";"Chojna";"Poland";"2004";"0";"0";"0";"0";0;0;0
+"Inowroclaw";"Poland";"Bad Oeynhausen";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Popielow, Opole Voivodeship";"Poland";"Bad Wurzach";"WestGER";"2000";"0";"0";"0";"0";0;0;0
+"Jelenia Gora";"Poland";"Bautzen";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Kolno";"Poland";"Belm";"WestGER";"2006";"0";"0";"0";"0";0;0;0
+"Bensheim";"WestGER";"Klodzko";"Poland";"1996";"0";"0";"0";"0";0;0;0
+"Pszczyna";"Poland";"Bergisch Gladbach";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Berlin";"WestGER";"Warsaw";"Poland";"1991";"0";"0";"0";"0";1;0;1
+"Miedzyrzecz";"Poland";"Berlin";"WestGER";"1993";"0";"0";"0";"1";0;1;1
+"Szczecin";"Poland";"Friedrichshain-Kreuzberg, Berlin";"WestGER";"1996";"0";"0";"0";"1";1;0;1
+"Bialoleka, Warsaw";"Poland";"Lichtenberg, Berlin";"WestGER";"2000";"0";"0";"0";"0";0;0;0
+"Hajnowka County";"Poland";"Lichtenberg, Berlin";"WestGER";"2001";"0";"0";"0";"0";0;0;0
+"Tychy";"Poland";"Marzahn-Hellersdorf, Berlin";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Kolobrzeg";"Poland";"Berlin";"WestGER";"1994";"0";"0";"0";"1";1;1;2
+"Wroclaw";"Poland";"Berlin";"WestGER";"0";"0";"0";"0";"0";1;1;2
+"Templewo";"Poland";"Berlin";"WestGER";"0";"0";"0";"0";"1";0;1;1
+"Sulecin";"Poland";"Berlin";"WestGER";"0";"0";"0";"0";"1";0;1;1
+"Kazimierz Dolny";"Poland";"Steglitz-Zehlendorf, Berlin";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Koszalin";"Poland";"Berlin";"WestGER";"1995";"0";"0";"0";"1";1;1;2
+"Mokotow, Warsaw";"Poland";"Treptow-Kopenick, Berlin";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Tarnowskie Gory";"Poland";"Bernburg";"WestGER";"1968";"0";"0";"0";"0";0;0;0
+"Otmuchow";"Poland";"Bernkastel-Kues";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Swidnica";"Poland";"Biberach an der Riss";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Kamienna Gora";"Poland";"Bitterfeld";"WestGER";"2006";"0";"0";"0";"0";0;0;0
+"Opole";"Poland";"Bonn";"WestGER";"1997";"0";"0";"0";"0";0;0;0
+"Biskupiec";"Poland";"Bramsche";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Bremen";"WestGER";"Gdansk";"Poland";"1976";"0";"0";"0";"1";1;1;2
+"Szczecin";"Poland";"Bremerhaven";"WestGER";"1990";"0";"0";"0";"1";1;0;1
+"Nowa Ruda";"Poland";"Castrop-Rauxel";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Kwidzyn";"Poland";"Celle";"WestGER";"1990";"0";"0";"0";"1";0;0;0
+"Chemnitz";"WestGER";"Lodz";"Poland";"1981";"0";"0";"0";"0";0;0;0
+"Cologne";"WestGER";"Katowice";"Poland";"1991";"0";"0";"0";"0";0;0;0
+"Cottbus";"WestGER";"Zielona Gora";"Poland";"1975";"0";"0";"0";"0";0;0;0
+"Bilgoraj";"Poland";"Crailsheim";"WestGER";"2000";"0";"0";"0";"0";0;0;0
+"Pila";"Poland";"Cuxhaven";"WestGER";"1996";"0";"0";"1";"1";0;0;0
+"Darmstadt";"WestGER";"Plock";"Poland";"1988";"0";"0";"0";"0";0;0;0
+"Gliwice";"Poland";"Dessau-Rosslau";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Dorsten";"WestGER";"Rybnik";"Poland";"1994";"0";"0";"0";"0";0;0;0
+"Dresden";"WestGER";"Wroclaw";"Poland";"1963";"0";"0";"0";"0";0;1;1
+"Dusseldorf";"WestGER";"Warsaw";"Poland";"1989";"0";"0";"0";"0";0;0;0
+"Brzeg";"Poland";"Eckernforde";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Rawicz";"Poland";"Eilenburg";"WestGER";"2001";"0";"0";"0";"0";0;0;0
+"Erfurt";"WestGER";"Kalisz";"Poland";"1982";"0";"0";"0";"0";1;0;1
+"Piotrkow Trybunalski";"Poland";"Esslingen am Neckar";"WestGER";"1992";"0";"0";"0";"0";0;0;0
+"Slupsk";"Poland";"Flensburg";"WestGER";"1988";"1";"1";"1";"1";1;0;1
+"Gorzow Wielkopolski";"Poland";"Frankfurt Oder";"EastGER";"1975";"0";"0";"1";"1";0;1;1
+"Slubice";"Poland";"Frankfurt Oder";"EastGER";"1975";"0";"0";"1";"1";0;1;1
+"Walbrzych";"Poland";"Freiberg";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Sieradz";"Poland";"Gaggenau";"WestGER";"2000";"0";"0";"0";"0";0;0;0
+"Wrzesnia";"Poland";"Garbsen";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Skierniewice";"Poland";"Gera";"WestGER";"1965";"0";"0";"0";"0";0;0;0
+"Brzeg";"Poland";"Goslar";"WestGER";"2000";"0";"0";"0";"0";0;1;1
+"Gottingen";"WestGER";"Torun";"Poland";"1978";"0";"0";"0";"0";1;1;2
+"Szamotuly";"Poland";"Gross-Gerau";"WestGER";"2000";"0";"0";"0";"0";0;0;0
+"Mragowo";"Poland";"Grunberg";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Grudziadz";"Poland";"Gutersloh";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Kalwaria Zebrzydowska";"Poland";"Hameln";"WestGER";"2001";"0";"0";"0";"0";0;1;1
+"Hanover";"WestGER";"Poznan";"Poland";"1979";"0";"0";"0";"0";0;0;0
+"Slubice";"Poland";"Heilbronn";"WestGER";"1998";"0";"0";"0";"0";0;0;0
+"Gorzow Wielkopolski";"Poland";"Herford";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Konin";"Poland";"Herne";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Janow Podlaski";"Poland";"Hohen Neuendorf";"WestGER";"1995";"0";"0";"0";"0";0;0;0
+"Trzcianka";"Poland";"Husum";"WestGER";"1961";"0";"0";"0";"1";0;0;0
+"Jastrzebie Zdroj";"Poland";"Ibbenburen";"WestGER";"2007";"0";"0";"0";"0";0;0;0
+"Opole";"Poland";"Ingolstadt";"WestGER";"2005";"0";"0";"0";"0";0;0;0
+"Chorzow";"Poland";"Iserlohn";"WestGER";"1995";"0";"0";"0";"0";0;0;0
+"Andrychow";"Poland";"Isny";"WestGER";"1998";"0";"0";"0";"0";0;0;0
+"Karpacz";"Poland";"Kamenz";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Kiel";"WestGER";"Gdynia";"Poland";"1985";"1";"1";"1";"1";1;0;1
+"Trzebnica";"Poland";"Kitzingen";"WestGER";"2009";"0";"0";"0";"0";0;0;0
+"Pyrzyce";"Poland";"Korbach";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Glogow";"Poland";"Langenhagen";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Leer";"WestGER";"Elblag";"Poland";"1992";"0";"0";"0";"0";0;1;1
+"Leipzig";"WestGER";"Krakow";"Poland";"1995";"0";"0";"0";"0";0;1;1
+"Pietrowice Wielkie";"Poland";"Liederbach am Taunus";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Bielawa";"Poland";"Lingen";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Zdzieszowice";"Poland";"Ludwigsfelde";"WestGER";"1998";"0";"0";"0";"0";0;0;0
+"Kamien Pomorski";"Poland";"Lunen";"WestGER";"0";"0";"0";"0";"0";1;0;1
+"Gniewino";"Poland";"Malchow";"EastGER";"0";"0";"1";"1";"1";0;0;0
+"Bydgoszcz";"Poland";"Mannheim";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Ostroleka";"Poland";"Meppen";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Opole";"Poland";"Mulheim";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Braniewo";"Poland";"Munster";"WestGER";"1954";"0";"0";"0";"0";1;0;1
+"Munster";"WestGER";"Lublin";"Poland";"1991";"0";"0";"0";"0";0;0;0
+"Szczecinek";"Poland";"Neustrelitz";"EastGER";"1987";"0";"0";"1";"1";0;0;0
+"Ostrow Wielkopolski";"Poland";"Nordhausen";"WestGER";"1995";"0";"0";"0";"0";0;1;1
+"Nuremberg";"WestGER";"Krakow";"Poland";"1979";"0";"0";"0";"0";0;1;1
+"Ochsenfurt";"WestGER";"Ropczyce";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Paderborn";"WestGER";"Przemysl";"Poland";"1993";"0";"0";"0";"0";0;0;0
+"Opole";"Poland";"Potsdam";"WestGER";"1973";"0";"0";"0";"0";0;0;0
+"Slawno";"Poland";"Rinteln";"WestGER";"0";"0";"0";"0";"0";1;0;1
+"Glubczyce";"Poland";"Rockenhausen";"WestGER";"2003";"0";"0";"0";"0";0;0;0
+"Szczecin";"Poland";"Rostock";"EastGER";"1957";"1";"1";"1";"1";1;1;2
+"Schwabisch Hall";"WestGER";"Zamosc";"Poland";"1989";"0";"0";"0";"0";0;0;0
+"Chelm";"Poland";"Sindelfingen";"WestGER";"2001";"0";"0";"0";"0";0;0;0
+"Soest";"WestGER";"Strzelce Opolskie";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Goldap";"Poland";"Stade";"WestGER";"1998";"0";"0";"1";"1";0;1;1
+"Stargard Szczecinski";"Poland";"Stralsund";"EastGER";"1987";"0";"1";"1";"1";1;1;2
+"Stuttgart";"WestGER";"Lodz";"Poland";"1988";"0";"0";"0";"0";0;0;0
+"Polanica Zdroj";"Poland";"Telgte";"WestGER";"1995";"0";"0";"0";"0";0;0;0
+"Kamien Pomorski";"Poland";"Torgelow";"EastGER";"0";"1";"1";"1";"1";1;0;1
+"Ueckermunde";"EastGER";"Nowe Warpno";"Poland";"1993";"1";"1";"1";"1";0;0;0
+"Verden";"WestGER";"Gorowo Ilaweckie";"Poland";"1996";"0";"0";"0";"1";0;0;0
+"Verden";"WestGER";"Zielona Gora";"Poland";"1993";"0";"0";"0";"0";0;0;0
+"Olesnica";"Poland";"Warendorf";"WestGER";"2002";"0";"0";"0";"0";0;0;0
+"Zamosc";"Poland";"Weimar";"WestGER";"2012";"0";"0";"0";"0";0;0;0
+"Nowa Wies Wielka";"Poland";"Westerburg";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Zlotoryja";"Poland";"Westerburg";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Wiesbaden";"WestGER";"Wroclaw";"Poland";"1987";"0";"0";"0";"0";0;1;1
+"Bydgoszcz";"Poland";"Wilhelmshaven";"WestGER";"2006";"0";"0";"0";"0";0;0;0
+"Izbica";"Poland";"Winterlingen";"WestGER";"2008";"0";"0";"0";"0";0;0;0
+"Wolfsburg";"WestGER";"Bielsko-Biala";"Poland";"1998";"0";"0";"0";"0";0;0;0
+"Karlino";"Poland";"Wolgast";"EastGER";"2006";"1";"1";"1";"1";0;0;0
+"Legnica";"Poland";"Wuppertal";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Bogatynia";"Poland";"Zittau";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Czestochowa";"Poland";"Bialystok";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Ustka";"Poland";"Bielsko-Biala";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Nowy Sacz";"Poland";"Elblag";"Poland";"0";"0";"0";"0";"0";0;1;1
+"Sokola Gora";"Poland";"Myslowice";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Bielsko-Biala";"Poland";"Olsztyn";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Kalisz";"Poland";"Ostrow Wielkopolski";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Dzierzoniow";"Poland";"Serock";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Nowy Sacz";"Poland";"Tarnow";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Debno";"Poland";"Tczew";"Poland";"2000";"0";"1";"1";"1";0;0;0
+"Choszczno";"Poland";"Alytus";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Gizycko";"Poland";"Alytus";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Opole";"Poland";"Alytus";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Ostroleka";"Poland";"Alytus";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Suwalki";"Poland";"Alytus";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Kedzierzyn-Kozle";"Poland";"Jonava";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Lomza";"Poland";"Kaunas";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Mysliborz";"Poland";"Kaunas";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Szczecin";"Poland";"Klaipeda";"Lithuania";"2002";"1";"1";"1";"1";1;0;1
+"Ostroda";"Poland";"Silute";"Lithuania";"2001";"0";"1";"1";"1";0;0;0
+"Nowa Sarzyna";"Poland";"Olaine";"Latvia";"0";"0";"0";"0";"0";0;0;0
+"Bialogard";"Poland";"Maardu";"Estonia";"2004";"1";"1";"1";"1";1;0;1
+"Gdynia";"Poland";"Tallinn";"Estonia";"0";"1";"1";"1";"1";0;1;1
+"Lomza";"Poland";"Tallinn";"Estonia";"0";"0";"0";"0";"0";0;1;1
+"Sulejowek";"Poland";"Viimsi Parish";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Olecko";"Poland";"Johvi";"Estonia";"2006";"0";"0";"0";"1";0;0;0
+"Vyskov";"Poland";"Kohtla-Jarve";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Gdynia";"Poland";"Kunda";"Estonia";"2001";"1";"1";"1";"1";0;0;0
+"Lukow";"Poland";"Torva";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Kobylnica";"Poland";"Valga";"Estonia";"2001";"0";"0";"0";"0";0;0;0
+"Koscielisko";"Poland";"Valga";"Estonia";"2004";"0";"0";"0";"0";0;0;0
+"Suwalki";"Poland";"Voru";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Naujoji Akmene";"Lithuania";"Bryansk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Marijampole";"Lithuania";"Chernyakhovsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Plunge";"Lithuania";"Krasnogorsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Jurbarkas";"Lithuania";"Neman";"Russia";"2004";"0";"0";"0";"1";0;0;0
+"Visaginas";"Lithuania";"Obninsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Pagegiai";"Lithuania";"Sovetsk";"Russia";"2001";"0";"1";"1";"1";0;0;0
+"Silale";"Lithuania";"Sovetsk";"Russia";"2004";"0";"1";"1";"1";0;0;0
+"Taurage";"Lithuania";"Sovetsk";"Russia";"0";"0";"0";"1";"1";0;0;0
+"Joensuu";"Finland";"Vilnius";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Karkkila";"Finland";"Prienai";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Kotka";"Finland";"Klaipeda";"Lithuania";"1994";"1";"1";"1";"1";0;0;0
+"Riihimaki";"Finland";"Jonava";"Lithuania";"1999";"0";"0";"0";"0";0;0;0
+"Tampere";"Finland";"Kaunas";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Pagegiai";"Lithuania";"Lomma Municipality";"Sweden";"2001";"0";"1";"1";"1";0;0;0
+"Kretinga";"Lithuania";"Osby Municipality";"Sweden";"1994";"0";"1";"1";"1";0;0;0
+"Palanga";"Lithuania";"Simrishamn Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Ukmerge";"Lithuania";"Solvesborg Municipality";"Sweden";"2000";"0";"0";"0";"0";0;0;0
+"Druskininkai";"Lithuania";"Ystad Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Sirvintos";"Lithuania";"Oppegard";"Norway";"1966";"0";"0";"0";"0";0;0;0
+"Oslo";"Norway";"Vilnius";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Kaunas";"Lithuania";"Vestfold";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vilnius";"Lithuania";"Aalborg";"Denmark";"1997";"0";"0";"0";"0";0;0;0
+"Holstebro";"Denmark";"Prienai";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Kolding Municipality";"Denmark";"Panevezys";"Lithuania";"2000";"0";"0";"0";"1";0;0;0
+"Odense Municipality";"Denmark";"Kaunas";"Lithuania";"1992";"0";"0";"0";"0";0;0;0
+"Bad Kotzting";"WestGER";"Prienai";"Lithuania";"2008";"0";"0";"0";"0";0;0;0
+"Telsiai";"Lithuania";"Bassum";"WestGER";"2009";"0";"0";"0";"0";0;0;0
+"Marijampole";"Lithuania";"Bergisch Gladbach";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Jurbarkas";"Lithuania";"Lichtenfeld, Berlin";"WestGER";"2003";"0";"0";"0";"1";0;0;0
+"Trakai";"Lithuania";"Bernburg";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Jubarkas";"Lithuania";"Crailsheim";"WestGER";"2000";"0";"0";"0";"0";0;0;0
+"Nemencine";"Lithuania";"Dessau-Rosslau";"WestGER";"1995";"0";"0";"0";"0";0;0;0
+"Duisburg";"WestGER";"Vilnius";"Lithuania";"1985";"0";"0";"0";"0";0;0;0
+"Erfurt";"WestGER";"Vilnius";"Lithuania";"1972";"0";"0";"0";"0";1;0;1
+"Panevezys";"Lithuania";"Lunen";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Mannheim";"WestGER";"Klaipeda";"Lithuania";"2002";"0";"0";"0";"0";0;0;0
+"Kaunas";"Lithuania";"Bialystok";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Chojna";"Poland";"Prienai";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Czestochowa";"Poland";"Siauliai";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Druskininkai";"Lithuania";"Elblag";"Poland";"0";"0";"0";"0";"0";0;1;1
+"Gdansk";"Poland";"Vilnius";"Lithuania";"1992";"0";"0";"0";"0";1;0;1
+"Gdynia";"Poland";"Klaipeda";"Lithuania";"1993";"1";"1";"1";"1";0;0;0
+"Krakow";"Poland";"Vilnius";"Lithuania";"0";"0";"0";"0";"0";1;0;1
+"Lodz";"Poland";"Vilnius";"Lithuania";"1991";"0";"0";"0";"0";0;0;0
+"Panevezys";"Lithuania";"Lublin";"Poland";"1999";"0";"0";"0";"0";0;0;0
+"Marijampole";"Lithuania";"Piotrkow Trybunalski";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Vilnius County";"Lithuania";"Rybnik";"Poland";"2000";"0";"0";"0";"0";0;0;0
+"Ignalina";"Lithuania";"Serock";"Poland";"1999";"0";"0";"0";"0";0;0;0
+"Druskininkai";"Lithuania";"Strzelce Opolskie";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Birzai";"Lithuania";"Tczew";"Poland";"1998";"0";"0";"1";"1";0;0;0
+"Warsaw";"Poland";"Vilnius";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Wroclaw";"Poland";"Kaunas";"Lithuania";"0";"0";"0";"0";"0";1;0;1
+"Visaginas";"Lithuania";"Zamosc";"Poland";"1977";"0";"0";"0";"0";0;0;0
+"Birstonas";"Lithuania";"Znin";"Poland";"1998";"0";"0";"0";"0";0;0;0
+"Salcininkai-Jasiunai";"Lithuania";"Znin";"Poland";"2003";"0";"0";"0";"0";0;0;0
+"Anyksciai";"Lithuania";"Olaine";"Latvia";"0";"0";"0";"0";"0";0;0;0
+"Birstonas";"Lithuania";"Keila";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Elektrenai";"Lithuania";"Maardu";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Kedainiai";"Lithuania";"Kohtla-Jarve";"Estonia";"1997";"0";"0";"0";"1";0;0;0
+"Mazeikiai";"Lithuania";"Paide";"Estonia";"1993";"0";"0";"1";"1";0;0;0
+"Panevezys";"Lithuania";"Rakvere";"Estonia";"2005";"0";"0";"0";"1";0;0;0
+"Kretinga";"Lithuania";"Viljandi";"Estonia";"2005";"0";"0";"1";"1";0;1;1
+"Joniskis";"Lithuania";"Voru";"Estonia";"2010";"0";"0";"0";"1";0;0;0
+"Jurmala";"Latvia";"Kazan";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tukums";"Latvia";"Krasnogorsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Jelgava";"Latvia";"Magadan";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Jelgava";"Latvia";"Moscow";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Daugavpils";"Latvia";"Naro-Fominsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Madona";"Latvia";"Orekhovo-Zuyevo";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Daugavpils";"Latvia";"St. Petersburg";"Russia";"2002";"0";"0";"0";"0";0;0;0
+"Saldus";"Latvia";"Sergiyev Posad";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Talsi";"Latvia";"Shchyolkovo";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Jurmala";"Latvia";"Jakobstad";"Finland";"1962";"1";"1";"1";"1";0;0;0
+"Karkkila";"Finland";"Sigulda";"Latvia";"2004";"0";"1";"1";"1";0;0;0
+"Pori";"Finland";"Riga";"Latvia";"1965";"1";"1";"1";"1";0;1;1
+"Riihimaki";"Finland";"Olaine";"Latvia";"1997";"0";"1";"1";"1";0;0;0
+"Dobele";"Latvia";"Angelholm Municipality";"Sweden";"1997";"0";"1";"1";"1";0;0;0
+"Jurmala";"Latvia";"Eskilstuna Municipality";"Sweden";"1991";"0";"1";"1";"1";0;0;0
+"Jurmala";"Latvia";"Gavle Municipality";"Sweden";"1992";"1";"1";"1";"1";0;0;0
+"Tukums";"Latvia";"Gotland Municipality";"Sweden";"0";"1";"1";"1";"1";0;0;0
+"Dundaga";"Latvia";"Lekeberg Municipality";"Sweden";"1997";"0";"0";"0";"1";0;0;0
+"Saldus";"Latvia";"Lidingo Municipality";"Sweden";"1991";"0";"0";"1";"1";0;0;0
+"Jelgava";"Latvia";"Nacka Municipality";"Sweden";"1990";"1";"1";"1";"1";0;0;0
+"Riga";"Latvia";"Norrkoping Municipality";"Sweden";"1988";"1";"1";"1";"1";1;0;1
+"Burtnieki";"Latvia";"Stenungsund Municipality";"Sweden";"0";"0";"1";"1";"1";0;0;0
+"Dobele";"Latvia";"Ulricehamn Municipality";"Sweden";"0";"0";"0";"1";"1";0;0;0
+"Ventspils";"Latvia";"Vastervik Municipality";"Sweden";"1989";"1";"1";"1";"1";1;0;1
+"Vecpiebalga";"Latvia";"Aremark";"Norway";"2009";"0";"0";"0";"1";0;0;0
+"Rezekne";"Latvia";"Arendal";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Grobina";"Latvia";"Hjelmeland";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Vecpiebalga";"Latvia";"Marker";"Norway";"2009";"0";"0";"0";"1";0;0;0
+"Straupe";"Latvia";"Spydeberg";"Norway";"1993";"0";"1";"1";"1";1;0;1
+"Aalborg";"Denmark";"Riga";"Latvia";"1989";"1";"1";"1";"1";0;1;1
+"Riga";"Latvia";"Frederikshavn";"Denmark";"0";"1";"1";"1";"1";1;0;1
+"Holstebro";"Denmark";"Sigulda";"Latvia";"2004";"0";"1";"1";"1";0;0;0
+"Limbazi";"Latvia";"Anklam";"EastGER";"2005";"1";"1";"1";"1";1;1;2
+"Bad Kotzting";"WestGER";"Sigulda";"Latvia";"2004";"0";"0";"0";"0";0;0;0
+"Bremen";"WestGER";"Riga";"Latvia";"1985";"0";"0";"0";"1";1;1;2
+"Darmstadt";"WestGER";"Liepaja";"Latvia";"1993";"0";"0";"0";"0";0;0;0
+"Kuldiga";"Latvia";"Geesthacht";"WestGER";"1991";"0";"1";"1";"1";1;0;1
+"Saldus";"Latvia";"Liederbach am Taunus";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Rostock";"EastGER";"Riga";"Latvia";"1961";"1";"1";"1";"1";1;1;2
+"Riga";"Latvia";"Soest";"WestGER";"0";"0";"0";"0";"0";1;0;1
+"Stralsund";"EastGER";"Ventspils";"Latvia";"1969";"1";"1";"1";"1";1;1;2
+"Smiltene";"Latvia";"Willich";"WestGER";"0";"0";"0";"0";"0";0;0;0
+"Jelgava";"Latvia";"Bialystok";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Chojna";"Poland";"Sigulda";"Latvia";"2004";"0";"1";"1";"1";0;0;0
+"Rezekne";"Latvia";"Czestochowa";"Poland";"0";"0";"0";"0";"0";0;0;0
+"Liepaja";"Latvia";"Elblag";"Poland";"1991";"1";"1";"1";"1";0;1;1
+"Liepaja";"Latvia";"Gdynia";"Poland";"1999";"1";"1";"1";"1";0;0;0
+"Aizkraukle";"Latvia";"Tczew";"Poland";"2007";"0";"0";"1";"1";0;0;0
+"Warsaw";"Poland";"Riga";"Latvia";"0";"0";"0";"0";"0";0;1;1
+"Cesis";"Latvia";"Alytus";"Lithuania";"0";"0";"0";"0";"0";1;0;1
+"Klaipeda";"Lithuania";"Liepaja";"Latvia";"1997";"1";"1";"1";"1";0;0;0
+"Prienai";"Lithuania";"Sigulda";"Latvia";"0";"0";"0";"0";"0";0;0;0
+"Jelgava";"Latvia";"Siauliai";"Lithuania";"1990";"0";"0";"1";"1";0;0;0
+"Vilnius";"Lithuania";"Riga";"Latvia";"0";"0";"0";"0";"0";0;1;1
+"Jekabpils";"Latvia";"Maardu";"Estonia";"2003";"0";"0";"0";"1";0;0;0
+"Vangazi";"Latvia";"Saue";"Estonia";"2001";"1";"1";"1";"1";0;0;0
+"Skrunda";"Latvia";"Poltsamaa";"Estonia";"0";"0";"0";"1";"1";0;0;0
+"Broceni";"Latvia";"Kunda";"Estonia";"2001";"0";"1";"1";"1";0;0;0
+"Cesis";"Latvia";"Rakvere";"Estonia";"2005";"0";"1";"1";"1";1;0;1
+"Dobele";"Latvia";"Tapa";"Estonia";"0";"0";"1";"1";"1";0;0;0
+"Talsi";"Latvia";"Kuressaare";"Estonia";"1998";"1";"1";"1";"1";0;0;0
+"Riga";"Latvia";"Tartu";"Estonia";"2004";"0";"0";"1";"1";1;1;2
+"Valka";"Latvia";"Valga";"Estonia";"1995";"0";"0";"0";"1";0;0;0
+"Valmiera";"Latvia";"Viljandi";"Estonia";"1960";"0";"0";"1";"1";1;1;2
+"Aluksne";"Latvia";"Voru";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Haapsalu";"Estonia";"Borovichi";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tallinn";"Estonia";"Moscow";"Russia";"0";"0";"0";"0";"0";1;0;1
+"Paldiski";"Estonia";"Ufa";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Maardu";"Estonia";"Velikiye Luki";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Nomme";"Estonia";"Espoo";"Finland";"1994";"1";"1";"1";"1";0;0;0
+"Hamina";"Finland";"Paide";"Estonia";"1994";"0";"1";"1";"1";0;0;0
+"Karkkila";"Finland";"Turi";"Estonia";"2004";"0";"1";"1";"1";0;0;0
+"Kokemaki";"Finland";"Poltsamaa";"Estonia";"0";"0";"0";"1";"1";0;0;0
+"Lahti";"Finland";"Narva";"Estonia";"1994";"0";"1";"1";"1";0;0;0
+"Kardla";"Estonia";"Pargas";"Finland";"0";"0";"0";"1";"1";0;0;0
+"Albu";"Estonia";"Salo";"Finland";"0";"0";"1";"1";"1";0;0;0
+"Anija";"Estonia";"Salo";"Finland";"1995";"1";"1";"1";"1";0;0;0
+"Salo";"Finland";"Elva";"Estonia";"1989";"0";"0";"0";"1";0;0;0
+"Emmaste";"Estonia";"Salo";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Kaarma";"Estonia";"Salo";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Puhalepa";"Estonia";"Salo";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Turi";"Estonia";"Salo";"Finland";"0";"0";"1";"1";"1";0;0;0
+"Tampere";"Finland";"Tartu";"Estonia";"1992";"0";"0";"1";"1";0;1;1
+"Turku";"Finland";"Tartu";"Estonia";"2008";"0";"0";"1";"1";0;1;1
+"Viljandi";"Estonia";"Eslov Municipality";"Sweden";"1990";"0";"0";"1";"1";1;0;1
+"Osel";"Estonia";"Gotland Municipality";"Sweden";"1989";"1";"1";"1";"1";0;0;0
+"Laane-Viru County";"Estonia";"Jonkoping Municipality";"Sweden";"1993";"0";"0";"0";"1";0;0;0
+"Karksi-Nuia";"Estonia";"Leksand Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Keila";"Estonia";"Nacka Municipality";"Sweden";"1991";"1";"1";"1";"1";0;0;0
+"Koo";"Estonia";"Nora Municipality";"Sweden";"1991";"0";"0";"0";"1";0;0;0
+"Rakvere";"Estonia";"Sigtuna Municipality";"Sweden";"1990";"1";"1";"1";"1";0;0;0
+"Tallinn";"Estonia";"Skelleftea Municipality";"Sweden";"0";"0";"1";"1";"1";1;0;1
+"Saue";"Estonia";"Sollentuna Municipality";"Sweden";"1992";"1";"1";"1";"1";0;0;0
+"Tartu";"Estonia";"Uppsala Municipality";"Sweden";"1988";"0";"0";"1";"1";1;0;1
+"Tartumaa";"Estonia";"Varberg Municipality";"Sweden";"0";"0";"0";"1";"1";0;0;0
+"Baerum";"Norway";"Tartu";"Estonia";"0";"0";"0";"1";"1";0;1;1
+"Parnu County";"Estonia";"Buskerud";"Norway";"0";"0";"0";"0";"1";0;0;0
+"Hemsedal";"Norway";"Torva";"Estonia";"2007";"0";"0";"0";"0";0;0;0
+"Halinga";"Estonia";"Hol";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Tolliste Parish";"Estonia";"Holtalen";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Keila";"Estonia";"Lunner";"Norway";"0";"1";"1";"1";"1";0;0;0
+"Frederiksberg Municipality";"Denmark";"Tartu";"Estonia";"1991";"0";"0";"1";"1";0;1;1
+"Tallinn";"Estonia";"Gladsaxe Municipality";"Denmark";"2003";"1";"1";"1";"1";1;0;1
+"Turi";"Estonia";"Grenaa";"Denmark";"0";"0";"1";"1";"1";0;0;0
+"Helsingor Municipality";"Denmark";"Parnu";"Estonia";"1991";"1";"1";"1";"1";0;1;1
+"Holstebro";"Denmark";"Turi";"Estonia";"2004";"0";"1";"1";"1";0;0;0
+"Kalundborg";"Denmark";"Valga";"Estonia";"0";"0";"0";"0";"1";0;0;0
+"Ronne";"Denmark";"Kuressaare";"Estonia";"1991";"1";"1";"1";"1";0;0;0
+"Thisted";"Denmark";"Johvi";"Estonia";"2000";"1";"1";"1";"1";0;0;0
+"Tinglev";"Denmark";"Narva";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Ahrensburg";"WestGER";"Viljandi";"Estonia";"1989";"0";"0";"1";"1";0;1;1
+"Bad Kotzting";"WestGER";"Turi";"Estonia";"2004";"0";"0";"0";"0";0;0;0
+"Kiel";"WestGER";"Tallinn";"Estonia";"1986";"1";"1";"1";"1";1;1;2
+"Luneburg";"WestGER";"Tartu";"Estonia";"1993";"0";"0";"1";"1";1;1;2
+"Norderstedt";"WestGER";"Kohtla-Jarve";"Estonia";"1989";"0";"1";"1";"1";0;0;0
+"Preetz";"WestGER";"Tapa";"Estonia";"1991";"1";"1";"1";"1";0;0;0
+"Rendsburg";"WestGER";"Haapsalu";"Estonia";"1989";"1";"1";"1";"1";0;0;0
+"Bialystok";"Poland";"Tallinn";"Estonia";"0";"0";"0";"0";"0";0;1;1
+"Chojna";"Poland";"Turi";"Estonia";"2004";"0";"1";"1";"1";0;0;0
+"Narva";"Estonia";"Elblag";"Poland";"0";"1";"1";"1";"1";0;1;1
+"Jogeva";"Estonia";"Jonava";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Kaunas";"Lithuania";"Tartu";"Estonia";"0";"0";"0";"0";"0";0;1;1
+"Prienai";"Lithuania";"Turi";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Siauliai";"Lithuania";"Parnu";"Estonia";"0";"0";"0";"1";"1";0;1;1
+"Tallinn";"Estonia";"Vilnius";"Lithuania";"0";"0";"0";"0";"0";1;0;1
+"Jelgava";"Latvia";"Parnu";"Estonia";"1957";"1";"1";"1";"1";0;1;1
+"Narva";"Estonia";"Olaine";"Latvia";"0";"1";"1";"1";"1";0;0;0
+"Riga";"Latvia";"Tallinn";"Estonia";"2002";"1";"1";"1";"1";1;1;2
+"Saldus";"Latvia";"Paide";"Estonia";"1993";"0";"0";"1";"1";0;0;0
+"Sigulda";"Latvia";"Turi";"Estonia";"2004";"0";"1";"1";"1";0;0;0
+"Sigulda";"Latvia";"Keila";"Estonia";"0";"0";"1";"1";"1";0;0;0
+"Kaarma";"Estonia";"Vaike-Maarja Parish";"Estonia";"1993";"0";"1";"1";"1";0;0;0
+"Parnu";"Estonia";"Narva";"Estonia";"0";"1";"1";"1";"1";1;0;1
+"Naryan-Mar";"Russia";"Arkhangelsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kizlyar";"Russia";"Azov";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Salekhard, Yamalo-Nenets Autonomous Okrug";"Russia";"Azov";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Oryol";"Russia";"Bryansk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Severodvinsk";"Russia";"Bryansk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Maloyaroslavets";"Russia";"Dzerzhinsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Gus-Khrustalny";"Russia";"Dzerzhinsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ozyory";"Russia";"Dzerzhinsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Soligalich";"Russia";"Dzerzhinsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Zarechny";"Russia";"Dzerzhinsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Aleksin";"Russia";"Dzerzhinsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Gubkin";"Russia";"Dzerzhinsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Belomorsk";"Russia";"Dzerzhinsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Istra";"Russia";"Dyurtyuli";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ivanovo";"Russia";"Dzerzhinsky";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kazan";"Russia";"Ivanovo";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ulan-Ude";"Russia";"Kazan";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Budyonnovsk";"Russia";"Kizlyar";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Moscow";"Russia";"Kolomna";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Naryan-Mar";"Russia";"Moscow";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ukhta";"Russia";"Naryan-Mar";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Nazran";"Russia";"Kislovodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Klimovsk";"Russia";"Novocheboksarsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Sterlitamak";"Russia";"Novocheboksarsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kronstadt";"Russia";"Novocherkassk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tomsk";"Russia";"Novorossiysk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Novosibirsk";"Russia";"Omsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kaliningrad";"Russia";"Omsk";"Russia";"2006";"0";"0";"0";"0";1;0;1
+"Chelyabinsk";"Russia";"Omsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Pitkyaranta";"Russia";"Pikalyovo";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Podolsk";"Russia";"Petrozavodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Serpukhov";"Russia";"Maloyaroslavets";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Makaravski Rayon";"Russia";"Serpukhovsky District";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Shelekhov";"Russia";"Rylsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tutayev";"Russia";"Sokol";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ufa";"Russia";"Orenburg";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Vladikavkaz";"Russia";"Makhachkala";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Vladikavkaz";"Russia";"Nalchik";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Espoo";"Finland";"Gatchina";"Russia";"0";"1";"1";"1";"1";0;0;0
+"Espoo";"Finland";"Sochi";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Boksitogorsk";"Russia";"Eura";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Moscow";"Russia";"Helsinki";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Jyvaskyla";"Finland";"Yaroslavl";"Russia";"1966";"0";"0";"0";"0";0;0;0
+"Rostov-on-Don";"Russia";"Kajaani";"Finland";"1956";"0";"0";"0";"0";0;0;0
+"Kemi";"Finland";"Volgograd";"Russia";"1953";"0";"0";"0";"0";0;0;0
+"Kouvola";"Finland";"Vologda";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kuopio";"Finland";"Pitkyaranta";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kuopio";"Finland";"Pskov";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Lahti";"Finland";"Kaluga";"Russia";"1994";"0";"0";"0";"0";0;0;0
+"Kirovsk";"Russia";"Naantali";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Oulu";"Finland";"Arkhangelsk";"Russia";"1993";"0";"0";"0";"0";0;0;0
+"Chudovo";"Russia";"Pargas";"Finland";"0";"0";"0";"0";"1";0;0;0
+"Rauma";"Finland";"Kolpino";"Russia";"0";"1";"1";"1";"1";0;0;0
+"Gus-Hrustalnyj";"Russia";"Riihimaki";"Finland";"1960";"0";"0";"0";"0";0;0;0
+"Rovaniemi";"Finland";"Murmansk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Salo";"Finland";"Rzhev";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Borovichi";"Russia";"Suolahti";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Tampere";"Finland";"Nizhny Novgorod";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Turku";"Finland";"St. Petersburg";"Russia";"1953";"1";"1";"1";"1";0;0;0
+"Borovichi";"Russia";"Aanekoski";"Finland";"0";"0";"0";"0";"0";0;0;0
+"Monchegorsk";"Russia";"Alvsbyn Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Umba";"Russia";"Arjeplog Municipality";"Sweden";"0";"0";"0";"0";"0";0;0;0
+"Boden Municipality";"Sweden";"Apatity";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kaliningrad";"Russia";"Kalmar Municipality";"Sweden";"2000";"1";"1";"1";"1";1;1;2
+"Kaliningrad";"Russia";"Malmo Municipality";"Sweden";"1994";"1";"1";"1";"1";1;0;1
+"Sortavala";"Russia";"Solvesborg Municipality";"Sweden";"1997";"0";"0";"0";"1";0;0;0
+"Alta";"Norway";"Apatity";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Ballangen";"Norway";"Tosno";"Russia";"1999";"0";"0";"0";"0";0;0;0
+"Belomorsk";"Russia";"Berlevag";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Bodo";"Norway";"Vyborg";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Gildeskal";"Norway";"Lodeynoye Pole";"Russia";"1993";"0";"0";"0";"0";0;0;0
+"Hammerfest";"Norway";"Kola";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Harstad";"Norway";"Kirovsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Volkhov";"Russia";"Melhus";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Moss";"Norway";"Novgorod";"Russia";"0";"0";"0";"0";"1";0;0;0
+"Narvik";"Norway";"Kingisepp";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Leningrad Oblast";"Russia";"Nordland";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Oslo";"Norway";"St. Petersburg";"Russia";"1995";"1";"1";"1";"1";0;0;0
+"Rana";"Norway";"Petrozavodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Pechenga";"Russia";"Sor-Varanger";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Severomorsk";"Russia";"Sor-Varanger";"Norway";"0";"0";"0";"0";"0";0;0;0
+"Steigen";"Norway";"Podporozhye";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tromso";"Norway";"Murmansk";"Russia";"1972";"0";"0";"0";"0";0;0;0
+"Arkhangelsk";"Russia";"Tromso";"Norway";"2011";"0";"0";"0";"0";0;0;0
+"Tysfjord";"Norway";"Kirishi";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Vadso";"Norway";"Murmansk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Arkhangelsk";"Russia";"Vardo";"Norway";"1989";"0";"0";"0";"0";0;0;0
+"Vefsn";"Norway";"Volkhov";"Russia";"1992";"0";"0";"0";"0";0;0;0
+"Aalborg";"Denmark";"Pushkin";"Russia";"1971";"1";"1";"1";"1";0;0;0
+"Aachen";"WestGER";"Kostroma";"Russia";"2005";"0";"0";"0";"0";0;0;0
+"Petergof";"Russia";"Bad Homburg";"WestGER";"1994";"0";"0";"0";"0";0;0;0
+"Berlin";"WestGER";"Moscow";"Russia";"1991";"0";"0";"0";"0";1;0;1
+"Kaliningrad";"Russia";"Berlin";"WestGER";"2001";"0";"0";"0";"1";1;1;2
+"Petrogradsky District, St. Petersburg";"Russia";"Mitte, Berlin";"WestGER";"1994";"0";"0";"0";"1";0;0;0
+"Volgograd";"Russia";"Berlin";"WestGER";"0";"0";"0";"0";"0";0;1;1
+"St. Petersburg";"Russia";"Berlin";"WestGER";"1991";"0";"0";"0";"1";0;1;1
+"Dzerzhinsk";"Russia";"Bitterfeld";"WestGER";"1996";"0";"0";"0";"0";0;0;0
+"Kaliningrad";"Russia";"Bremerhaven";"WestGER";"1991";"0";"0";"0";"1";1;0;1
+"Celle";"WestGER";"Tyumen";"Russia";"1994";"0";"0";"0";"0";0;0;0
+"Chemnitz";"WestGER";"Volgograd";"Russia";"1988";"0";"0";"0";"0";0;0;0
+"Cologne";"WestGER";"Volgograd";"Russia";"1988";"0";"0";"0";"0";0;0;0
+"Cottbus";"WestGER";"Lipetsk";"Russia";"1974";"0";"0";"0";"0";0;0;0
+"Murmansk";"Russia";"Cuxhaven";"WestGER";"2004";"0";"0";"0";"0";0;0;0
+"Rostov";"Russia";"Dortmund";"WestGER";"1973";"0";"0";"0";"0";0;0;0
+"Dresden";"WestGER";"St. Petersburg";"Russia";"1961";"0";"0";"0";"0";0;0;0
+"Perm";"Russia";"Duisburg";"WestGER";"2007";"0";"0";"0";"0";0;0;0
+"Dusseldorf";"WestGER";"Moscow";"Russia";"1992";"0";"0";"0";"0";0;0;0
+"Arkhangelsk";"Russia";"Emden";"WestGER";"1989";"0";"0";"0";"0";0;0;0
+"Vladimir";"Russia";"Erlangen";"WestGER";"1983";"0";"0";"0";"0";0;0;0
+"Essen";"WestGER";"Nizhny Novgorod";"Russia";"1991";"0";"0";"0";"0";0;0;0
+"Sergiyev Posad";"Russia";"Fulda";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Gera";"WestGER";"Pskov";"Russia";"1996";"0";"0";"0";"0";0;0;0
+"Rostov";"Russia";"Gera";"WestGER";"1987";"0";"0";"0";"0";0;0;0
+"Rzhev";"Russia";"Gutersloh";"WestGER";"2008";"0";"0";"0";"0";0;0;0
+"Smolensk";"Russia";"Hagen";"WestGER";"1985";"0";"0";"0";"0";0;0;0
+"Ufa";"Russia";"Halle an der Saale";"WestGER";"1997";"0";"0";"0";"0";0;0;0
+"Hamburg";"WestGER";"St. Petersburg";"Russia";"1957";"0";"1";"1";"1";1;0;1
+"Belgorod";"Russia";"Herne";"WestGER";"1990";"0";"0";"0";"0";0;0;0
+"Hildesheim";"WestGER";"Gelendzhik";"Russia";"1992";"0";"0";"0";"0";1;0;1
+"Ingolstadt";"WestGER";"Moscow";"Russia";"1995";"0";"0";"0";"0";0;0;0
+"Iserlohn";"WestGER";"Novocherkassk";"Russia";"1990";"0";"0";"0";"0";0;0;0
+"Karlsruhe";"WestGER";"Krasnodar";"Russia";"1998";"0";"0";"0";"0";0;0;0
+"Kassel";"WestGER";"Yaroslavl";"Russia";"1988";"0";"0";"0";"0";0;0;0
+"Kiel";"WestGER";"Kaliningrad";"Russia";"1992";"1";"1";"1";"1";1;1;2
+"Sovetsk";"Russia";"Kiel";"WestGER";"1992";"0";"1";"1";"1";0;1;1
+"Ulyanovsk";"Russia";"Krefeld";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Kamskoye Ustye";"Russia";"Ludwigslust";"WestGER";"1994";"0";"0";"0";"0";0;0;0
+"Muhlhausen";"WestGER";"Kronstadt";"Russia";"1995";"0";"0";"0";"0";1;0;1
+"Munster";"WestGER";"Ryazan";"Russia";"1989";"0";"0";"0";"0";0;0;0
+"Chaykovsky";"Russia";"Neustrelitz";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Lomonosov";"Russia";"Oberursel";"WestGER";"2004";"0";"0";"0";"0";0;0;0
+"Osnabruck";"WestGER";"Tver";"Russia";"1991";"0";"0";"0";"0";0;0;0
+"Primorsk";"Russia";"Pinneberg";"WestGER";"0";"0";"1";"1";"1";0;0;0
+"Preetz";"WestGER";"Neman";"Russia";"1991";"0";"1";"1";"1";0;0;0
+"Gagarin";"Russia";"Ratingen";"WestGER";"1998";"0";"0";"0";"0";0;0;0
+"Salzgitter";"WestGER";"Stary Oskol";"Russia";"1987";"0";"0";"0";"0";0;0;0
+"Stuttgart";"WestGER";"Samara";"Russia";"1992";"0";"0";"0";"0";0;0;0
+"Stupino";"Russia";"Telgte";"WestGER";"1995";"0";"0";"0";"0";0;0;0
+"Tubingen";"WestGER";"Petrozavodsk";"Russia";"1989";"0";"0";"0";"0";0;0;0
+"Bagrationovsk";"Russia";"Verden";"WestGER";"1966";"0";"0";"0";"1";0;0;0
+"Togliatti";"Russia";"Wolfsburg";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Yekaterinburg";"Russia";"Wuppertal";"WestGER";"1993";"0";"0";"0";"0";0;0;0
+"Bialystok";"Poland";"Kaliningrad";"Russia";"1994";"0";"0";"0";"0";0;1;1
+"Brzeg Dolny";"Poland";"Chernyakhovsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Kaliningrad";"Russia";"Elblag";"Poland";"1994";"1";"1";"1";"1";1;1;2
+"Elblag";"Poland";"Baltiysk";"Russia";"1994";"1";"1";"1";"1";1;0;1
+"Gdansk";"Poland";"Kaliningrad";"Russia";"1994";"1";"1";"1";"1";1;1;2
+"Gdansk";"Poland";"St. Petersburg";"Russia";"1993";"1";"1";"1";"1";1;0;1
+"Gdynia";"Poland";"Kaliningrad";"Russia";"1994";"1";"1";"1";"1";0;1;1
+"St. Petersburg";"Russia";"Gdynia";"Poland";"0";"1";"1";"1";"1";0;0;0
+"Gorzow Wielkopolski";"Poland";"Saransk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Krakow";"Poland";"Grozny";"Russia";"0";"0";"0";"0";"0";1;0;1
+"St. Petersburg";"Russia";"Krakow";"Poland";"0";"0";"0";"0";"0";0;1;1
+"Lodz";"Poland";"Ivanovo";"Russia";"1992";"0";"0";"0";"0";0;0;0
+"Lodz";"Poland";"Kaliningrad";"Russia";"2002";"0";"0";"0";"0";0;1;1
+"Olsztyn";"Poland";"Kaliningrad";"Russia";"1993";"0";"1";"1";"1";0;1;1
+"Sieradz";"Poland";"Saransk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tarnow";"Poland";"Kotlas";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tczew";"Poland";"Kursk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Torun";"Poland";"Kaliningrad";"Russia";"1995";"0";"0";"1";"1";1;1;2
+"Warsaw";"Poland";"Moscow";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Warsaw";"Poland";"St. Petersburg";"Russia";"1997";"0";"0";"0";"0";0;0;0
+"Alytus";"Lithuania";"Petrozavodsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Jonava";"Lithuania";"Bagrationovsk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Tyumen";"Russia";"Kaunas";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Cherepovets";"Russia";"Klaipeda";"Lithuania";"1992";"0";"0";"0";"0";0;0;0
+"Klaipeda";"Lithuania";"Kaliningrad";"Russia";"1993";"1";"1";"1";"1";0;1;1
+"Panevezys";"Lithuania";"Mytishchi";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Siauliai";"Lithuania";"Kaliningrad";"Russia";"2003";"0";"0";"1";"1";0;1;1
+"Slavsk";"Russia";"Silute";"Lithuania";"1998";"1";"1";"1";"1";0;0;0
+"Irkutsk";"Russia";"Vilnius";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Moscow";"Russia";"Vilnius";"Lithuania";"0";"0";"0";"0";"0";0;0;0
+"Vilnius";"Lithuania";"St. Petersburg";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Bauska";"Latvia";"Kolomna";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Dobele";"Latvia";"Bryansk";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Riga";"Latvia";"Moscow";"Russia";"0";"0";"0";"0";"0";1;0;1
+"Riga";"Latvia";"St. Petersburg";"Russia";"2002";"1";"1";"1";"1";1;0;1
+"Kalininsky District";"Russia";"Maardu";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Khabarovsk";"Russia";"Maardu";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Krasnoarmeysky District";"Russia";"Maardu";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Myshkin";"Russia";"Maardu";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Maardu";"Estonia";"Ostashkov";"Russia";"0";"0";"0";"0";"0";0;0;0
+"Maardu";"Estonia";"Pikalyovo";"Russia";"0";"0";"0";"0";"0";0;0;0
+"St. Petersburg";"Russia";"Tallinn";"Estonia";"2002";"1";"1";"1";"1";0;1;1
+"Johvi";"Estonia";"Kingisepp";"Russia";"1999";"1";"1";"1";"1";0;0;0
+"Saransk";"Russia";"Kohtla-Jarve";"Estonia";"0";"0";"0";"0";"0";0;0;0
+"Veliky Novgorod";"Russia";"Kohtla-Jarve";"Estonia";"2004";"0";"0";"0";"1";0;0;0
+"Slantsevsky District";"Russia";"Kohtla-Jarve";"Estonia";"1999";"0";"1";"1";"1";0;0;0
+"Kingisepp";"Russia";"Kohtla-Jarve";"Estonia";"2000";"1";"1";"1";"1";0;0;0
+"Narva";"Estonia";"Ivangorod";"Russia";"0";"1";"1";"1";"1";0;0;0
+"Narva";"Estonia";"Pskov";"Russia";"0";"0";"0";"0";"1";0;0;0
+"Kronstadt";"Russia";"Narva-Joesuu";"Estonia";"0";"1";"1";"1";"1";0;0;0
+"Parnu";"Estonia";"Sochi";"Russia";"0";"0";"0";"0";"0";1;0;1
+"Tartu";"Estonia";"Pskov";"Russia";"2000";"0";"0";"0";"1";1;0;1
+"Valga";"Estonia";"Novgorod";"Russia";"2001";"0";"0";"0";"1";0;0;0
+"Kotka";"Finland";"Lubeck";"WestGER";"1969";"1";"1";"1";"1";0;1;1
+"Kotka";"Finland";"Landskrona";"Sweden";"1940";"1";"1";"1";"1";0;0;0
+"Kragero Municipality";"Norway";"Mariehamn";"Finland";"1987";"1";"1";"1";"1";0;0;0
+"Lomonosov";"Russia";"Mariehamn";"Finland";"1961";"1";"1";"1";"1";0;0;0
+"Vantaa";"Finland";"Kongens Lyngby";"Sweden";"1951";"0";"0";"0";"0";0;0;0
+"Vantaa";"Finland";"Rastatt";"WestGER";"1968";"0";"0";"0";"0";0;0;0
+"Vantaa";"Finland";"Slupsk";"Poland";"1987";"1";"1";"1";"1";0;1;1
+"Tyreso";"Sweden";"Porvoo";"Finland";"1966";"0";"0";"0";"0";0;0;0
+"Viborg Municipality";"Denmark";"Porvoo";"Finland";"1950";"0";"1";"1";"1";0;0;0
+"Ventspils";"Latvia";"Porvoo";"Finland";"1990";"1";"1";"1";"1";1;0;1
+"Kamien Pomorski";"Poland";"Porvoo";"Finland";"1988";"1";"1";"1";"1";1;0;1
+"Turku";"Finland";"Kaliningrad";"Russia";"2004";"1";"1";"1";"1";0;1;1
+"Ketrzyn County";"Poland";"Kaliningrad";"Russia";"2009";"0";"0";"0";"0";0;1;1
+"Raciborz";"Poland";"Kaliningrad";"Russia";"2002";"0";"0";"0";"0";0;1;1
+"Vilnius";"Lithuania";"Kaliningrad";"Russia";"2000";"0";"0";"0";"0";0;1;1
+"Kaunas";"Lithuania";"Kaliningrad";"Russia";"2001";"0";"0";"0";"0";0;1;1
+"Panevezys";"Lithuania";"Kaliningrad";"Russia";"2002";"0";"0";"0";"1";0;1;1
+"Bodenwerder";"WestGER";"Kaliningrad";"Russia";"2003";"0";"0";"0";"0";0;1;1
+"Hamburg";"WestGER";"Kaliningrad";"Russia";"2005";"0";"1";"1";"1";1;1;2
+"Potsdam";"WestGER";"Kaliningrad";"Russia";"1993";"0";"0";"0";"1";0;1;1
+"Rostock";"EastGER";"Kaliningrad";"Russia";"1999";"1";"1";"1";"1";1;1;2
+"Zeitz";"WestGER";"Kaliningrad";"Russia";"2010";"0";"0";"0";"0";0;1;1
+"Krasnoyarsk";"Russia";"Kaliningrad";"Russia";"2008";"0";"0";"0";"0";0;1;1
+"Samara";"Russia";"Kaliningrad";"Russia";"1999";"0";"0";"0";"0";0;1;1
+"Severodvinsk";"Russia";"Kaliningrad";"Russia";"2010";"0";"0";"0";"0";0;1;1
+"Yaroslavl";"Russia";"Kaliningrad";"Russia";"1995";"0";"0";"0";"0";0;1;1
+"Norrtalje Municipality";"Sweden";"Kardla";"Estonia";"1989";"0";"0";"0";"0";0;0;0
+"Sillamae";"Estonia";"Kardla";"Estonia";"2002";"0";"0";"1";"1";0;0;0
+"Amt Neukloster-Wariniga";"WestGER";"Kardla";"Estonia";"2006";"0";"0";"0";"0";0;0;0
+"Targale Parish";"Latvia";"Kardla";"Estonia";"2002";"0";"0";"0";"0";0;0;0
+"Vissenbjerg";"Denmark";"Kardla";"Estonia";"1990";"0";"0";"0";"0";0;0;0
+"Pskov";"Russia";"Norrtalje Municipality";"Sweden";"1993";"0";"0";"0";"0";0;0;0
+"Paldiski";"Estonia";"Norrtalje Municipality";"Sweden";"2004";"0";"0";"0";"0";0;0;0
+"Rujiena";"Estonia";"Norrtalje Municipality";"Sweden";"2004";"0";"0";"0";"0";0;0;0
+"Vihti";"Finland";"Norrtalje Municipality";"Sweden";"1940";"0";"0";"0";"0";0;0;0
+"Sel";"Norway";"Norrtalje Municipality";"Sweden";"1940";"0";"0";"0";"0";0;0;0
+"Skaelskor";"Denmark";"Norrtalje Municipality";"Sweden";"1940";"0";"0";"0";"0";0;0;0
+"Tuusula";"Finland";"Hvidovre Municipality";"Denmark";"1955";"1";"1";"1";"1";0;0;0
+"Oppegard";"Norway";"Hvidovre Municipality";"Denmark";"1957";"1";"1";"1";"1";0;0;0
+"Rydultowy";"Poland";"Hvidovre Municipality";"Denmark";"1995";"0";"0";"0";"0";0;0;0
+"Buchholz in der Nordheide";"WestGER";"Jarvenpaa";"Finland";"2004";"0";"0";"0";"0";0;0;0
+"Rodovre Municipality";"Denmark";"Jarvenpaa";"Finland";"1956";"1";"1";"1";"1";0;0;0
+"Visby";"Sweden";"Lubeck";"WestGER";"1999";"1";"1";"1";"1";1;1;2
+"Umea Municipality";"Sweden";"Helsingor Municipality";"Denmark";"1955";"1";"1";"1";"1";0;0;0
+"Sandefjord";"Norway";"Uusikaupunki";"Finland";"1950";"1";"1";"1";"1";0;0;0
+"Haderslev Municipality";"Denmark";"Uusikaupunki";"Finland";"1950";"1";"1";"1";"1";0;0;0
+"Orimattila";"Finland";"Uusikaupunki";"Finland";"2001";"0";"1";"1";"1";0;0;0
+"Kobylnica";"Poland";"Uusikaupunki";"Finland";"2001";"0";"0";"0";"0";0;0;0
+"Kobylnica";"Poland";"Orimattila";"Finland";"2001";"0";"0";"0";"0";0;0;0
+"Kobylnica";"Poland";"Novgorod";"Russia";"2001";"0";"0";"0";"0";0;0;0
+"Koscielisko";"Poland";"Novgorod";"Russia";"2001";"0";"0";"0";"0";0;0;0
+"Orimattila";"Finland";"Koscielisko";"Poland";"2001";"0";"0";"0";"0";0;0;0
+"Koscielisko";"Poland";"Uusikaupunki";"Finland";"2001";"0";"0";"0";"0";0;0;0
+"Kobylnica";"Poland";"Koscielisko";"Poland";"2001";"0";"0";"0";"0";0;0;0
+"Orimattila";"Finland";"Novgorod";"Russia";"2001";"0";"0";"0";"1";0;0;0
+"Norddjurs";"Denmark";"Hallstahammar Municipality";"Sweden";"2008";"0";"0";"1";"1";0;0;0
+"Audru";"Estonia";"Hallstahammar Municipality";"Sweden";"1996";"0";"0";"0";"0";0;0;0
+"Mantta-Vilppula";"Finland";"Hallstahammar Municipality";"Sweden";"2009";"0";"0";"0";"0";0;0;0
+"Paimio";"Finland";"Ljungby";"Sweden";"1967";"0";"0";"1";"1";0;0;0
+"Rudersdal Municipality";"Denmark";"Jakobstad";"Finland";"0";"1";"1";"1";"1";0;0;0
+"Hoje-Taastrup Municipality";"Denmark";"Valmiera";"Latvia";"1995";"0";"0";"1";"1";0;1;1
+"Pskov";"Russia";"Valmiera";"Latvia";"2001";"0";"0";"0";"1";0;1;1
+"Zdunska Wola";"Poland";"Valmiera";"Latvia";"2002";"0";"0";"0";"0";0;1;1
+"Halle";"WestGER";"Valmiera";"Latvia";"1994";"0";"0";"0";"0";1;1;2
+"Kokkola";"Finland";"Harnosand";"Sweden";"1948";"1";"1";"1";"1";0;0;0
+"Fredericia";"Denmark";"Harnosand";"Sweden";"1948";"1";"1";"1";"1";0;0;0
+"Fredericia";"Denmark";"Kokkola";"Finland";"1948";"1";"1";"1";"1";0;0;0
+"Landskrona";"Sweden";"Fredrikstad";"Norway";"2006";"1";"1";"1";"1";0;0;0
+"Slupsk";"Poland";"Fredrikstad";"Norway";"2010";"1";"1";"1";"1";1;0;1
+"Central Administrative Okrug, Moscow";"Russia";"Mitte, Berlin";"WestGER";"2006";"0";"0";"0";"0";0;0;0
+"Pushkin, St. Petersburg";"Russia";"Neukolln, Berlin";"WestGER";"1991";"0";"0";"0";"0";0;0;0
+"Kaliningrad Oblast";"Russia";"Lichtenberg, Berlin";"WestGER";"2001";"0";"0";"0";"0";0;0;0
+"Gjovik";"Norway";"Rauma";"Finland";"1946";"0";"1";"1";"1";0;0;0
+"Ahlen";"WestGER";"Tempelhof-Schoneberg, Berlin";"WestGER";"1964";"0";"0";"0";"0";0;0;0
+"Krakow";"Poland";"Frankfurt am Main";"WestGER";"1991";"0";"0";"0";"0";1;0;1
+"Solna Municipality";"Sweden";"Valmiera";"Latvia";"1991";"0";"0";"1";"1";0;1;1
