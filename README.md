@@ -11,5 +11,5 @@ The data is provided in the "data" folder. The file is *semicolon* separatedand 
 * Hboth: sum of H1 and H2
 
 # Figures
-Figure 1 and 2 can be created by executing "data/figures.R". Figure 3 and 4 were made in the program vizone and thus no script file to recreate them exist.
+Figure 1 and 2 can be created by executing "data/figures.R". The results will be saved in "output". Figure 3 and 4 were made in the program vizone and thus no script file to recreate them exist.
 
