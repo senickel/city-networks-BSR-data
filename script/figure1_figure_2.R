@@ -1,7 +1,7 @@
 
 
 options(stringsAsFactors = FALSE)
-dyad.all<-read.csv2("data/dyad.all.csv")
+dyad.all<-read.csv2("./data/dyad.hans.csv")
 dyad.all2<-dyad.all
 
 dyad.all2[which(dyad.all2[,2]=="WestGER"|dyad.all2[,2]=="EastGER"),2]<-"Germany"
